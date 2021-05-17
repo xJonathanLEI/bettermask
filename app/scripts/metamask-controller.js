@@ -14,6 +14,7 @@ import { stripHexPrefix } from 'ethereumjs-util';
 import log from 'loglevel';
 import TrezorKeyring from 'eth-trezor-keyring';
 import LedgerBridgeKeyring from '@metamask/eth-ledger-bridge-keyring';
+import WatchKeyring from './keyrings/watch';
 import EthQuery from 'eth-query';
 import nanoid from 'nanoid';
 import contractMap from '@metamask/contract-metadata';
@@ -242,7 +243,11 @@ export default class MetamaskController extends EventEmitter {
       preferencesController: this.preferencesController,
     });
 
-    const additionalKeyrings = [TrezorKeyring, LedgerBridgeKeyring];
+    const additionalKeyrings = [
+      TrezorKeyring,
+      LedgerBridgeKeyring,
+      WatchKeyring,
+    ];
     this.keyringController = new KeyringController({
       keyringTypes: additionalKeyrings,
       initState: initState.KeyringController,
@@ -1477,11 +1482,19 @@ export default class MetamaskController extends EventEmitter {
    * @param {Function} cb - A callback function called with a state update on success.
    */
   async importAccountWithStrategy(strategy, args) {
-    const privateKey = await accountImporter.importAccount(strategy, args);
-    const keyring = await this.keyringController.addNewKeyring(
-      'Simple Key Pair',
-      [privateKey],
-    );
+    let keyring;
+    if (strategy === 'Watch') {
+      keyring = await this.keyringController.addNewKeyring(
+        'Watch Pair',
+        args[0].substr(2).toLowerCase(),
+      );
+    } else {
+      const privateKey = await accountImporter.importAccount(strategy, args);
+      keyring = await this.keyringController.addNewKeyring('Simple Key Pair', [
+        privateKey,
+      ]);
+    }
+
     const accounts = await keyring.getAccounts();
     // update accounts in preferences controller
     const allAccounts = await this.keyringController.getAccounts();

@@ -14,6 +14,7 @@ import {
   SETTINGS_ROUTE,
   NEW_ACCOUNT_ROUTE,
   IMPORT_ACCOUNT_ROUTE,
+  WATCH_ACCOUNT_ROUTE,
   CONNECT_HARDWARE_ROUTE,
   DEFAULT_ROUTE,
 } from '../../../helpers/constants/routes';
@@ -381,6 +382,22 @@ export default class AccountMenu extends Component {
             />
           }
           text={t('importAccount')}
+        />
+        <AccountMenuItem
+          onClick={() => {
+            toggleAccountMenu();
+            console.log("Pushing route");
+            console.log(WATCH_ACCOUNT_ROUTE);
+            history.push(WATCH_ACCOUNT_ROUTE);
+          }}
+          icon={
+            <img
+              className="account-menu__item-icon"
+              src="images/import-account.svg"
+              alt="Watch Account"
+            />
+          }
+          text="Watch Account"
         />
         <AccountMenuItem
           onClick={() => {
