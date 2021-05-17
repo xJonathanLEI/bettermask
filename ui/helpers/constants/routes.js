@@ -22,6 +22,7 @@ const CONFIRM_ADD_TOKEN_ROUTE = '/confirm-add-token';
 const CONFIRM_ADD_SUGGESTED_TOKEN_ROUTE = '/confirm-add-suggested-token';
 const NEW_ACCOUNT_ROUTE = '/new-account';
 const IMPORT_ACCOUNT_ROUTE = '/new-account/import';
+const WATCH_ACCOUNT_ROUTE = '/new-account/watch';
 const CONNECT_HARDWARE_ROUTE = '/new-account/connect';
 const SEND_ROUTE = '/send';
 const CONNECT_ROUTE = '/connect';
@@ -90,6 +91,7 @@ const PATH_NAME_MAP = {
   [CONFIRM_ADD_SUGGESTED_TOKEN_ROUTE]: 'Confirm Add Suggested Token Page',
   [NEW_ACCOUNT_ROUTE]: 'New Account Page',
   [IMPORT_ACCOUNT_ROUTE]: 'Import Account Page',
+  [WATCH_ACCOUNT_ROUTE]: 'Watch Account Page',
   [CONNECT_HARDWARE_ROUTE]: 'Connect Hardware Wallet Page',
   [SEND_ROUTE]: 'Send Page',
   [`${CONNECT_ROUTE}/:id`]: 'Connect To Site Confirmation Page',
@@ -148,6 +150,7 @@ export {
   CONFIRM_ADD_SUGGESTED_TOKEN_ROUTE,
   NEW_ACCOUNT_ROUTE,
   IMPORT_ACCOUNT_ROUTE,
+  WATCH_ACCOUNT_ROUTE,
   CONNECT_HARDWARE_ROUTE,
   SEND_ROUTE,
   INITIALIZE_ROUTE,
