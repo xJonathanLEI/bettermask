@@ -5,10 +5,12 @@ import classnames from 'classnames';
 import {
   NEW_ACCOUNT_ROUTE,
   IMPORT_ACCOUNT_ROUTE,
+  WATCH_ACCOUNT_ROUTE,
   CONNECT_HARDWARE_ROUTE,
 } from '../../helpers/constants/routes';
 import NewAccountCreateForm from './new-account.container';
 import NewAccountImportForm from './import-account';
+import NewAccountWatchForm from './watch-account';
 import ConnectHardwareForm from './connect-hardware';
 
 export default class CreateAccountPage extends Component {
@@ -25,34 +27,40 @@ export default class CreateAccountPage extends Component {
         }),
       });
 
-    return (
-      <div className="new-account__tabs">
-        <div
-          className={getClassNames(NEW_ACCOUNT_ROUTE)}
-          onClick={() => history.push(NEW_ACCOUNT_ROUTE)}
-        >
-          {this.context.t('create')}
+      return (
+        <div className="new-account__tabs">
+          <div
+            className={getClassNames(NEW_ACCOUNT_ROUTE)}
+            onClick={() => history.push(NEW_ACCOUNT_ROUTE)}
+          >
+            {this.context.t('create')}
+          </div>
+          <div
+            className={getClassNames(IMPORT_ACCOUNT_ROUTE)}
+            onClick={() => history.push(IMPORT_ACCOUNT_ROUTE)}
+          >
+            {this.context.t('import')}
+          </div>
+          <div
+            className={getClassNames(WATCH_ACCOUNT_ROUTE)}
+            onClick={() => history.push(WATCH_ACCOUNT_ROUTE)}
+          >
+            {"Watch"}
+          </div>
+          <div
+            className={getClassNames(CONNECT_HARDWARE_ROUTE)}
+            onClick={() => history.push(CONNECT_HARDWARE_ROUTE)}
+          >
+            {this.context.t('hardware')}
+          </div>
         </div>
-        <div
-          className={getClassNames(IMPORT_ACCOUNT_ROUTE)}
-          onClick={() => history.push(IMPORT_ACCOUNT_ROUTE)}
-        >
-          {this.context.t('import')}
-        </div>
-        <div
-          className={getClassNames(CONNECT_HARDWARE_ROUTE)}
-          onClick={() => history.push(CONNECT_HARDWARE_ROUTE)}
-        >
-          {this.context.t('hardware')}
-        </div>
-      </div>
-    );
-  }
-
+      );
+    }
+  
   render() {
     return (
       <div className="new-account">
-        <div className="new-account__header">
+                <div className="new-account__header">
           <div
             className={`new-account__header ${this.context.t('newAccount')}`}
           >
@@ -70,6 +78,11 @@ export default class CreateAccountPage extends Component {
               exact
               path={IMPORT_ACCOUNT_ROUTE}
               component={NewAccountImportForm}
+            />
+            <Route
+              exact
+              path={WATCH_ACCOUNT_ROUTE}
+              component={NewAccountWatchForm}
             />
             <Route
               exact
