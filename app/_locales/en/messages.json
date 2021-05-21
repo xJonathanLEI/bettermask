@@ -150,7 +150,7 @@
     "message": "Amount:"
   },
   "appDescription": {
-    "message": "An Ethereum Wallet in your Browser",
+    "message": "An Ethereum Wallet in your Browser with Read-Only Accounts",
     "description": "The description of the application"
   },
   "appName": {
