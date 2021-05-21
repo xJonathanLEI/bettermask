@@ -44,7 +44,7 @@
     "message": "activity log"
   },
   "addAcquiredTokens": {
-    "message": "Add the tokens you've acquired using MetaMask"
+    "message": "Add the tokens you've acquired using BetterMask"
   },
   "addAlias": {
     "message": "Add alias"
@@ -53,10 +53,10 @@
     "message": "Add contact"
   },
   "addEthereumChainConfirmationDescription": {
-    "message": "This will allow this network to be used within MetaMask."
+    "message": "This will allow this network to be used within BetterMask."
   },
   "addEthereumChainConfirmationRisks": {
-    "message": "MetaMask does not verify custom networks."
+    "message": "BetterMask does not verify custom networks."
   },
   "addEthereumChainConfirmationRisksLearnMore": {
     "message": "Learn about $1.",
@@ -150,11 +150,11 @@
     "message": "Amount:"
   },
   "appDescription": {
-    "message": "An Ethereum Wallet in your Browser",
+    "message": "An Ethereum Wallet in your Browser with Read-Only Accounts",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "BetterMask",
     "description": "The name of the application"
   },
   "approvalAndAggregatorTxFeeCost": {
@@ -204,7 +204,7 @@
     "message": "Auto-Lock Timer (minutes)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Set the idle time in minutes before MetaMask will become locked."
+    "message": "Set the idle time in minutes before BetterMask will become locked."
   },
   "average": {
     "message": "Average"
@@ -216,7 +216,7 @@
     "message": "Back to All"
   },
   "backupApprovalInfo": {
-    "message": "This secret code is required to recover your wallet in case you lose your device, forget your password, have to re-install MetaMask, or want to access your wallet on another device."
+    "message": "This secret code is required to recover your wallet in case you lose your device, forget your password, have to re-install BetterMask, or want to access your wallet on another device."
   },
   "backupApprovalNotice": {
     "message": "Backup your Secret Recovery code to keep your wallet and funds secure."
@@ -253,7 +253,7 @@
     "message": "Build your contact list"
   },
   "builtInCalifornia": {
-    "message": "MetaMask is designed and built in California."
+    "message": "BetterMask is designed and built in California."
   },
   "buy": {
     "message": "Buy"
@@ -262,7 +262,7 @@
     "message": "Buy ETH with Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre lets you use a debit card to deposit ETH right in to your MetaMask account."
+    "message": "Wyre lets you use a debit card to deposit ETH right in to your BetterMask account."
   },
   "bytes": {
     "message": "Bytes"
@@ -286,7 +286,7 @@
     "message": "The chain ID used to sign transactions for this network."
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "You need to use MetaMask on Google Chrome in order to connect to your Hardware Wallet."
+    "message": "You need to use BetterMask on Google Chrome in order to connect to your Hardware Wallet."
   },
   "clickToRevealSeed": {
     "message": "Click here to reveal secret words"
@@ -332,7 +332,7 @@
   },
   "connectTo": {
     "message": "Connect to $1",
-    "description": "$1 is the name/origin of a web3 site/application that the user can connect to metamask"
+    "description": "$1 is the name/origin of a web3 site/application that the user can connect to BetterMask"
   },
   "connectToAll": {
     "message": "Connect to all your $1",
@@ -350,8 +350,8 @@
     "message": "$1 accounts",
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
-  "connectWithMetaMask": {
-    "message": "Connect With MetaMask"
+  "connectWithBetterMask": {
+    "message": "Connect With BetterMask"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "You have $1 accounts connected to this site.",
@@ -361,7 +361,7 @@
     "message": "You have 1 account connected to this site."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask is not connected this site. To connect to a web3 site, find the connect button on their site."
+    "message": "BetterMask is not connected this site. To connect to a web3 site, find the connect button on their site."
   },
   "connectedSites": {
     "message": "Connected sites"
@@ -483,7 +483,7 @@
     "message": "Custom Token"
   },
   "dataBackupFoundInfo": {
-    "message": "Some of your account data was backed up during a previous installation of MetaMask. This could include your settings, contacts, and tokens. Would you like to restore this data now?"
+    "message": "Some of your account data was backed up during a previous installation of BetterMask. This could include your settings, contacts, and tokens. Would you like to restore this data now?"
   },
   "decimal": {
     "message": "Decimals of Precision"
@@ -505,7 +505,7 @@
     "message": "$1 would like to read this message to complete your action",
     "description": "$1 is the web3 site name"
   },
-  "decryptMetamask": {
+  "decryptBetterMask": {
     "message": "Decrypt message"
   },
   "decryptRequest": {
@@ -612,7 +612,7 @@
     "message": "Never share the phrase with anyone."
   },
   "endOfFlowMessage5": {
-    "message": "Be careful of phishing! MetaMask will never spontaneously ask for your seed phrase."
+    "message": "Be careful of phishing! BetterMask will never spontaneously ask for your seed phrase."
   },
   "endOfFlowMessage6": {
     "message": "If you need to back up your seed phrase again, you can find it in Settings -> Security."
@@ -622,7 +622,7 @@
     "description": "$1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask cannot recover your seedphrase."
+    "message": "BetterMask cannot recover your seedphrase."
   },
   "endOfFlowMessage9": {
     "message": "Learn more."
@@ -674,7 +674,7 @@
     "description": "Message displayed on generic error page in the popup UI, $1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "errorPageTitle": {
-    "message": "MetaMask encountered an error",
+    "message": "BetterMask encountered an error",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -833,7 +833,7 @@
     "message": "Connect a hardware wallet"
   },
   "hardwareWalletsMsg": {
-    "message": "Select a hardware wallet you'd like to use with MetaMask."
+    "message": "Select a hardware wallet you'd like to use with BetterMask."
   },
   "here": {
     "message": "here",
@@ -869,7 +869,7 @@
     "message": "import using seed phrase"
   },
   "importAccountMsg": {
-    "message": " Imported accounts will not be associated with your originally created MetaMask account seedphrase. Learn more about imported accounts "
+    "message": " Imported accounts will not be associated with your originally created BetterMask account seedphrase. Learn more about imported accounts "
   },
   "importAccountSeedPhrase": {
     "message": "Import an account with seed phrase"
@@ -889,7 +889,7 @@
     "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infuraBlockedNotification": {
-    "message": "MetaMask is unable to connect to the blockchain host. Review possible reasons $1.",
+    "message": "BetterMask is unable to connect to the blockchain host. Review possible reasons $1.",
     "description": "$1 is a clickable link with with text defined by the 'here' key"
   },
   "initialTransactionConfirmed": {
@@ -1039,23 +1039,23 @@
   "message": {
     "message": "Message"
   },
-  "metaMaskConnectStatusParagraphOne": {
-    "message": "You now have more control over your account connections in MetaMask."
+  "BetterMaskConnectStatusParagraphOne": {
+    "message": "You now have more control over your account connections in BetterMask."
   },
-  "metaMaskConnectStatusParagraphThree": {
+  "BetterMaskConnectStatusParagraphThree": {
     "message": "Click it to manage your connected accounts."
   },
-  "metaMaskConnectStatusParagraphTwo": {
+  "BetterMaskConnectStatusParagraphTwo": {
     "message": "The connection status button shows if the website you’re visiting is connected to your currently selected account."
   },
-  "metamaskDescription": {
+  "BetterMaskDescription": {
     "message": "Connecting you to Ethereum and the Decentralized Web."
   },
-  "metamaskSwapsOfflineDescription": {
-    "message": "MetaMask Swaps is undergoing maintenance. Please check back later."
+  "BetterMaskSwapsOfflineDescription": {
+    "message": "BetterMask Swaps is undergoing maintenance. Please check back later."
   },
-  "metamaskVersion": {
-    "message": "MetaMask Version"
+  "BetterMaskVersion": {
+    "message": "BetterMask Version"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Always allow you to opt-out via Settings"
@@ -1065,7 +1065,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask will.."
+    "message": "BetterMask will.."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 collect your full IP address",
@@ -1082,11 +1082,11 @@
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "Send anonymized click & pageview events"
   },
-  "metametricsHelpImproveMetaMask": {
-    "message": "Help Us Improve MetaMask"
+  "metametricsHelpImproveBetterMask": {
+    "message": "Help Us Improve BetterMask"
   },
   "metametricsOptInDescription": {
-    "message": "MetaMask would like to gather usage data to better understand how our users interact with the extension. This data will be used to continually improve the usability and user experience of our product and the Ethereum ecosystem."
+    "message": "BetterMask would like to gather usage data to better understand how our users interact with the extension. This data will be used to continually improve the usability and user experience of our product and the Ethereum ecosystem."
   },
   "mismatchedChain": {
     "message": "The network details for this chain ID do not match our records. We recommend that you $1 before proceeding.",
@@ -1106,14 +1106,14 @@
     "message": "My Accounts"
   },
   "needEtherInWallet": {
-    "message": "To interact with decentralized applications using MetaMask, you’ll need Ether in your wallet."
+    "message": "To interact with decentralized applications using BetterMask, you’ll need Ether in your wallet."
   },
   "needHelp": {
     "message": "Need help? Contact $1",
     "description": "$1 represents `needHelpLinkText`, the text which goes in the help link"
   },
   "needHelpLinkText": {
-    "message": "MetaMask Support"
+    "message": "BetterMask Support"
   },
   "needImportFile": {
     "message": "You must select a file to import.",
@@ -1180,8 +1180,8 @@
   "newPassword": {
     "message": "New password (min 8 chars)"
   },
-  "newToMetaMask": {
-    "message": "New to MetaMask?"
+  "newToBetterMask": {
+    "message": "New to BetterMask?"
   },
   "newTotal": {
     "message": "New Total"
@@ -1194,7 +1194,7 @@
   },
   "nextNonceWarning": {
     "message": "Nonce is higher than suggested nonce of $1",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to BetterMask's internal logic"
   },
   "noAccountsFound": {
     "message": "No accounts found for the given search query"
@@ -1239,31 +1239,31 @@
     "message": "Not Enough Gas"
   },
   "notifications1Description": {
-    "message": "MetaMask Mobile users can now swap tokens inside their mobile wallet. Scan the QR code to get the mobile app and start swapping.",
+    "message": "BetterMask Mobile users can now swap tokens inside their mobile wallet. Scan the QR code to get the mobile app and start swapping.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the swapping on mobile feature."
   },
   "notifications1Title": {
     "message": "Swapping on mobile is here!",
-    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use MetaMask Swaps on Mobile."
+    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use BetterMask Swaps on Mobile."
   },
   "notifications2ActionText": {
     "message": "Start survey",
-    "description": "The 'call to action' label on the button, or link, of the 'Help improve MetaMask' 'See What's New' notification. Upon clicking, users will be taken to an external page where they can complete a survey."
+    "description": "The 'call to action' label on the button, or link, of the 'Help improve BetterMask' 'See What's New' notification. Upon clicking, users will be taken to an external page where they can complete a survey."
   },
   "notifications2Description": {
     "message": "Please share your experience in this 5 minute survey.",
-    "description": "Description of a notification in the 'See What's New' popup. Further clarifies how the users can help: by completing a 5 minute survey about MetaMask."
+    "description": "Description of a notification in the 'See What's New' popup. Further clarifies how the users can help: by completing a 5 minute survey about BetterMask."
   },
   "notifications2Title": {
-    "message": "Help improve MetaMask",
-    "description": "Title for a notification in the 'See What's New' popup. Asks users to take action to make MetaMask better."
+    "message": "Help improve BetterMask",
+    "description": "Title for a notification in the 'See What's New' popup. Asks users to take action to make BetterMask better."
   },
   "notifications3ActionText": {
     "message": "Read more",
-    "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the metamask support website."
+    "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the BetterMask support website."
   },
   "notifications3Description": {
-    "message": "Stay up to date on MetaMask security best practices and get the latest security tips from official MetaMask support.",
+    "message": "Stay up to date on BetterMask security best practices and get the latest security tips from official BetterMask support.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the information they can get on security from the linked support page."
   },
   "notifications3Title": {
@@ -1271,11 +1271,11 @@
     "description": "Title for a notification in the 'See What's New' popup. Encourages users to consider security."
   },
   "notifications6DescriptionOne": {
-    "message": "As of Chrome version 91, the API that enabled our Ledger support (U2F) no longer supports hardware wallets. MetaMask has implemented a new Ledger Live support that allows you to continue to connect to your Ledger device via the Ledger Live desktop app.",
+    "message": "As of Chrome version 91, the API that enabled our Ledger support (U2F) no longer supports hardware wallets. BetterMask has implemented a new Ledger Live support that allows you to continue to connect to your Ledger device via the Ledger Live desktop app.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionThree": {
-    "message": "When interacting with your Ledger account in MetaMask, a new tab will open and you will be asked to open the Ledger Live app.  Once the app opens, you'll be asked to allow a WebSocket connection to your MetaMask account.  That's all!",
+    "message": "When interacting with your Ledger account in BetterMask, a new tab will open and you will be asked to open the Ledger Live app.  Once the app opens, you'll be asked to allow a WebSocket connection to your BetterMask account.  That's all!",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionTwo": {
@@ -1330,7 +1330,7 @@
     "message": "Participate in MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Participate in MetaMetrics to help us make MetaMask better"
+    "message": "Participate in MetaMetrics to help us make BetterMask better"
   },
   "password": {
     "message": "Password"
@@ -1562,10 +1562,10 @@
     "message": "Select an Account"
   },
   "selectAnAccountAlreadyConnected": {
-    "message": "This account has already been connected to MetaMask"
+    "message": "This account has already been connected to BetterMask"
   },
   "selectAnAccountHelp": {
-    "message": "Select an account to view in MetaMask."
+    "message": "Select an account to view in BetterMask."
   },
   "selectAnAccountHelpDirections": {
     "message": "Don't see your account? $1",
@@ -1697,7 +1697,7 @@
     "message": "Error in retrieving state logs."
   },
   "stateLogFileName": {
-    "message": "MetaMask State Logs"
+    "message": "BetterMask State Logs"
   },
   "stateLogs": {
     "message": "State Logs"
@@ -1779,7 +1779,7 @@
   },
   "swapCheckingQuote": {
     "message": "Checking $1",
-    "description": "Shown to the user during quote loading. $1 is the name of an aggregator. The message indicates that metamask is currently checking if that aggregator has a trade/quote for their requested swap."
+    "description": "Shown to the user during quote loading. $1 is the name of an aggregator. The message indicates that BetterMask is currently checking if that aggregator has a trade/quote for their requested swap."
   },
   "swapCustom": {
     "message": "custom"
@@ -1791,7 +1791,7 @@
     "message": "Edit limit"
   },
   "swapEnableDescription": {
-    "message": "This is required and gives MetaMask permission to swap your $1.",
+    "message": "This is required and gives BetterMask permission to swap your $1.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEstimatedNetworkFee": {
@@ -1809,7 +1809,7 @@
   },
   "swapFailedErrorDescriptionWithSupportLink": {
     "message": "Transaction failures happen and we are here to help. If this issue persists, you can reach our customer support at $1 for further assistance.",
-    "description": "This message is shown to a user if their swap fails. The $1 will be replaced by support.metamask.io"
+    "description": "This message is shown to a user if their swap fails. The $1 will be replaced by support.BetterMask.io"
   },
   "swapFailedErrorTitle": {
     "message": "Swap failed"
@@ -1842,19 +1842,19 @@
   "swapMaxSlippage": {
     "message": "Max slippage"
   },
-  "swapMetaMaskFee": {
-    "message": "MetaMask fee"
+  "swapBetterMaskFee": {
+    "message": "BetterMask fee"
   },
-  "swapMetaMaskFeeDescription": {
+  "swapBetterMaskFeeDescription": {
     "message": "We find the best price from the top liquidity sources, every time. A fee of $1% is automatically factored into this quote.",
-    "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
+    "description": "Provides information about the fee that BetterMask takes for swaps. $1 is a decimal number."
   },
   "swapNQuotes": {
     "message": "$1 quotes",
     "description": "$1 is the number of quotes that the user can select from when opening the list of quotes on the 'view quote' screen"
   },
   "swapNetworkFeeSummary": {
-    "message": "The network fee covers the cost of processing your swap and storing it on the $1 network. MetaMask does not profit from this fee."
+    "message": "The network fee covers the cost of processing your swap and storing it on the $1 network. BetterMask does not profit from this fee."
   },
   "swapNewQuoteIn": {
     "message": "New quotes in $1",
@@ -1891,8 +1891,8 @@
     "message": "If the price changes between the time your order is placed and confirmed it’s called \"slippage\". Your Swap will automatically cancel if slippage exceeds your \"slippage tolerance\" setting."
   },
   "swapQuoteIncludesRate": {
-    "message": "Quote includes a $1% MetaMask fee",
-    "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
+    "message": "Quote includes a $1% BetterMask fee",
+    "description": "Provides information about the fee that BetterMask takes for swaps. $1 is a decimal number."
   },
   "swapQuoteNofN": {
     "message": "Quote $1 of $2",
@@ -2033,7 +2033,7 @@
     "message": "View in activity"
   },
   "switchEthereumChainConfirmationDescription": {
-    "message": "This will switch the selected network within MetaMask to a previously added network:"
+    "message": "This will switch the selected network within BetterMask to a previously added network:"
   },
   "switchEthereumChainConfirmationTitle": {
     "message": "Allow this site to switch the network?"
@@ -2069,16 +2069,16 @@
     "message": "Make sure nobody else is looking at your screen when you scan this code"
   },
   "syncWithMobileComplete": {
-    "message": "Your data has been synced successfully. Enjoy the MetaMask mobile app!"
+    "message": "Your data has been synced successfully. Enjoy the BetterMask mobile app!"
   },
   "syncWithMobileDesc": {
-    "message": "You can sync your accounts and information with your mobile device. Open the MetaMask mobile app, go to \"Settings\" and tap on \"Sync from Browser Extension\""
+    "message": "You can sync your accounts and information with your mobile device. Open the BetterMask mobile app, go to \"Settings\" and tap on \"Sync from Browser Extension\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "If you just open the MetaMask Mobile app for the first time, just follow the steps in your phone."
+    "message": "If you just open the BetterMask Mobile app for the first time, just follow the steps in your phone."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Scan this code with your MetaMask mobile app"
+    "message": "Scan this code with your BetterMask mobile app"
   },
   "syncWithMobileTitle": {
     "message": "Sync with mobile"
@@ -2196,7 +2196,7 @@
     "message": "Try again"
   },
   "typePassword": {
-    "message": "Type your MetaMask password"
+    "message": "Type your BetterMask password"
   },
   "unapproved": {
     "message": "Unapproved"
@@ -2296,14 +2296,14 @@
     "description": "$1 is a clickable link."
   },
   "welcome": {
-    "message": "Welcome to MetaMask"
+    "message": "Welcome to BetterMask"
   },
   "welcomeBack": {
     "message": "Welcome Back!"
   },
   "whatsNew": {
     "message": "What's new",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to MetaMask."
+    "description": "This is the title of a popup that gives users notifications about new features and updates to BetterMask."
   },
   "whatsThis": {
     "message": "What's this?"

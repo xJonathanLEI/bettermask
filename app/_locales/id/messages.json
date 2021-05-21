@@ -44,7 +44,7 @@
     "message": "log aktivitas"
   },
   "addAcquiredTokens": {
-    "message": "Tambahkan token yang Anda peroleh menggunakan MetaMask"
+    "message": "Tambahkan token yang Anda peroleh menggunakan BetterMask"
   },
   "addAlias": {
     "message": "Tambahkan alias"
@@ -125,7 +125,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "BetterMask",
     "description": "The name of the application"
   },
   "approvalAndAggregatorTxFeeCost": {
@@ -169,7 +169,7 @@
     "message": "Timer Mengunci Otomatis (menit)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Atur waktu siaga dalam menit sebelum MetaMask menjadi terkunci."
+    "message": "Atur waktu siaga dalam menit sebelum BetterMask menjadi terkunci."
   },
   "average": {
     "message": "Rata-rata"
@@ -181,7 +181,7 @@
     "message": "Kembali ke Semua"
   },
   "backupApprovalInfo": {
-    "message": "Kode rahasia ini diperlukan untuk memulihkan dompet seandainya Anda kehilangan perangkat, lupa kata sandi, harus menginstal kembali MetaMask, atau ingin mengakses dompet Anda di perangkat lain."
+    "message": "Kode rahasia ini diperlukan untuk memulihkan dompet seandainya Anda kehilangan perangkat, lupa kata sandi, harus menginstal kembali BetterMask, atau ingin mengakses dompet Anda di perangkat lain."
   },
   "backupApprovalNotice": {
     "message": "Cadangkan kode Pemulihan Rahasia Anda untuk menjaga keamanan dompet dan dana Anda."
@@ -212,7 +212,7 @@
     "message": "Browser Anda tidak didukung..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask didesain dan didirikan di California."
+    "message": "BetterMask didesain dan didirikan di California."
   },
   "buy": {
     "message": "Beli"
@@ -221,7 +221,7 @@
     "message": "Beli ETH dengan Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre memungkinkan Anda menggunakan kartu debit untuk menyetorkan ETH langsung di akun MetaMask Anda."
+    "message": "Wyre memungkinkan Anda menggunakan kartu debit untuk menyetorkan ETH langsung di akun BetterMask Anda."
   },
   "bytes": {
     "message": "Byte"
@@ -239,7 +239,7 @@
     "message": "ID Rantai"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Anda perlu menggunakan MetaMask di Google Chrome untuk terhubung ke Dompet Perangkat Keras Anda."
+    "message": "Anda perlu menggunakan BetterMask di Google Chrome untuk terhubung ke Dompet Perangkat Keras Anda."
   },
   "clickToRevealSeed": {
     "message": "Klik di sini untuk membuka kata rahasia"
@@ -276,7 +276,7 @@
   },
   "connectTo": {
     "message": "Hubungkan ke $1",
-    "description": "$1 is the name/origin of a web3 site/application that the user can connect to metamask"
+    "description": "$1 is the name/origin of a web3 site/application that the user can connect to BetterMask"
   },
   "connectToAll": {
     "message": "Hubungkan ke semua $1 Anda",
@@ -294,8 +294,8 @@
     "message": "$1 akun",
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
-  "connectWithMetaMask": {
-    "message": "Hubungkan Dengan MetaMask"
+  "connectWithBetterMask": {
+    "message": "Hubungkan Dengan BetterMask"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "Anda memiliki $1 akun yang terhubung ke situs ini.",
@@ -305,7 +305,7 @@
     "message": "Anda memiliki 1 akun yang terhubung ke situs ini."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask tidak terhubung ke situs ini. Untuk terhubung ke situs web3, temukan tombol hubungkan di situs mereka."
+    "message": "BetterMask tidak terhubung ke situs ini. Untuk terhubung ke situs web3, temukan tombol hubungkan di situs mereka."
   },
   "connectedSites": {
     "message": "Situs yang terhubung"
@@ -415,7 +415,7 @@
     "message": "Token Kustom"
   },
   "dataBackupFoundInfo": {
-    "message": "Beberapa data akun Anda telah dicadangkan selama penginstalan MetaMask yang lalu. Ini bisa mencakup pengaturan, kontak, dan token Anda. Apakah Anda ingin memulihkan data ini sekarang?"
+    "message": "Beberapa data akun Anda telah dicadangkan selama penginstalan BetterMask yang lalu. Ini bisa mencakup pengaturan, kontak, dan token Anda. Apakah Anda ingin memulihkan data ini sekarang?"
   },
   "decimal": {
     "message": "Desimal Presisi"
@@ -437,7 +437,7 @@
     "message": "$1 ingin membaca pesan ini untuk menyelesaikan tindakan Anda",
     "description": "$1 is the web3 site name"
   },
-  "decryptMetamask": {
+  "decryptBetterMask": {
     "message": "Dekrip pesan"
   },
   "decryptRequest": {
@@ -538,13 +538,13 @@
     "message": "Jangan bagikan frasa kepada siapa pun."
   },
   "endOfFlowMessage5": {
-    "message": "Berhati-hatilah dengan phishing! MetaMask tidak pernah secara spontan meminta frasa pemulihan Anda."
+    "message": "Berhati-hatilah dengan phishing! BetterMask tidak pernah secara spontan meminta frasa pemulihan Anda."
   },
   "endOfFlowMessage6": {
     "message": "Jika Anda perlu mencadangkan frasa pemulihan lagi, Anda dapat menemukannya di Pengaturan -> Keamanan."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask tidak dapat memulihkan frasa pemulihan Anda."
+    "message": "BetterMask tidak dapat memulihkan frasa pemulihan Anda."
   },
   "endOfFlowMessage9": {
     "message": "Pelajari selengkapnya."
@@ -588,7 +588,7 @@
     "description": "Displayed error name for debugging purposes. $1 is the error name"
   },
   "errorPageTitle": {
-    "message": "MetaMask menemukan kesalahan",
+    "message": "BetterMask menemukan kesalahan",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -734,7 +734,7 @@
     "message": "Hubungkan dompet perangkat keras"
   },
   "hardwareWalletsMsg": {
-    "message": "Pilih dompet perangkat keras yang ingin Anda gunakan dengan MetaMask"
+    "message": "Pilih dompet perangkat keras yang ingin Anda gunakan dengan BetterMask"
   },
   "here": {
     "message": "di sini",
@@ -764,7 +764,7 @@
     "message": "Impor Akun"
   },
   "importAccountMsg": {
-    "message": " Akun yang diimpor tidak akan dikaitkan dengan frasa pemulihan akun MetaMask yang asli dibuat. Pelajari selengkapnya tentang akun yang diimpor "
+    "message": " Akun yang diimpor tidak akan dikaitkan dengan frasa pemulihan akun BetterMask yang asli dibuat. Pelajari selengkapnya tentang akun yang diimpor "
   },
   "importAccountSeedPhrase": {
     "message": "Impor akun dengan frasa pemulihan"
@@ -905,23 +905,23 @@
   "message": {
     "message": "Pesan"
   },
-  "metaMaskConnectStatusParagraphOne": {
-    "message": "Kini, Anda memiliki kontrol lebih banyak atas koneksi akun Anda di MetaMask."
+  "BetterMaskConnectStatusParagraphOne": {
+    "message": "Kini, Anda memiliki kontrol lebih banyak atas koneksi akun Anda di BetterMask."
   },
-  "metaMaskConnectStatusParagraphThree": {
+  "BetterMaskConnectStatusParagraphThree": {
     "message": "Klik untuk mengelola akun Anda yang terhubung."
   },
-  "metaMaskConnectStatusParagraphTwo": {
+  "BetterMaskConnectStatusParagraphTwo": {
     "message": "Tombol status koneksi menunjukkan apakah situs web yang Anda kunjungi terhubung ke akun Anda yang dipilih saat ini."
   },
-  "metamaskDescription": {
+  "BetterMaskDescription": {
     "message": "Menghubungkan Anda ke Ethereum dan Web Terdesentralisasi."
   },
-  "metamaskSwapsOfflineDescription": {
-    "message": "MetaMask Swap sedang dalam pemeliharaan. Silakan periksa kembali nanti."
+  "BetterMaskSwapsOfflineDescription": {
+    "message": "BetterMask Swap sedang dalam pemeliharaan. Silakan periksa kembali nanti."
   },
-  "metamaskVersion": {
-    "message": "Versi MetaMask"
+  "BetterMaskVersion": {
+    "message": "Versi BetterMask"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Selalu izinkan Anda untuk menyisih melalui Pengaturan"
@@ -931,7 +931,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask akan.."
+    "message": "BetterMask akan.."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 mengumpulkan alamat IP lengkap Anda",
@@ -948,11 +948,11 @@
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "Kirim kejadian pageview & klik anonim"
   },
-  "metametricsHelpImproveMetaMask": {
-    "message": "Bantu Kami Menyempurnakan MetaMask"
+  "metametricsHelpImproveBetterMask": {
+    "message": "Bantu Kami Menyempurnakan BetterMask"
   },
   "metametricsOptInDescription": {
-    "message": "MetaMask ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna berinteraksi dengan ekstensi. Data ini akan digunakan untuk secara kontinu memperbaiki kegunaan dan pengalaman pengguna atas produk kami dan ekosistem Ethereum."
+    "message": "BetterMask ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna berinteraksi dengan ekstensi. Data ini akan digunakan untuk secara kontinu memperbaiki kegunaan dan pengalaman pengguna atas produk kami dan ekosistem Ethereum."
   },
   "mobileSyncText": {
     "message": "Masukkan kata sandi Anda untuk memastikan ini adalah Anda!"
@@ -964,7 +964,7 @@
     "message": "Akun Saya"
   },
   "needEtherInWallet": {
-    "message": "Untuk berinteraksi dengan aplikasi yang terdesentralisasi menggunakan MetaMask, Anda memerlukan Ether di dompet Anda."
+    "message": "Untuk berinteraksi dengan aplikasi yang terdesentralisasi menggunakan BetterMask, Anda memerlukan Ether di dompet Anda."
   },
   "needImportFile": {
     "message": "Anda harus memilih file untuk diimpor.",
@@ -1010,8 +1010,8 @@
   "newPassword": {
     "message": "Kata sandi baru (min. 8 karakter)"
   },
-  "newToMetaMask": {
-    "message": "Baru menggunakan MetaMask?"
+  "newToBetterMask": {
+    "message": "Baru menggunakan BetterMask?"
   },
   "newTotal": {
     "message": "Total Baru"
@@ -1024,7 +1024,7 @@
   },
   "nextNonceWarning": {
     "message": "Nonce lebih tinggi dari nonce yang disarankan $1",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to BetterMask's internal logic"
   },
   "noAccountsFound": {
     "message": "Tidak ditemukan akun untuk kueri pencarian yang diberikan"
@@ -1109,7 +1109,7 @@
     "message": "Ikut serta dalam MetaMetric"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Ikut serta dalam MetaMetric untuk membantu kami membuat MetaMask lebih baik"
+    "message": "Ikut serta dalam MetaMetric untuk membantu kami membuat BetterMask lebih baik"
   },
   "password": {
     "message": "Kata sandi"
@@ -1338,7 +1338,7 @@
     "message": "Pilih Akun"
   },
   "selectAnAccountHelp": {
-    "message": "Pilih akun untuk dilihat di MetaMask"
+    "message": "Pilih akun untuk dilihat di BetterMask"
   },
   "selectEachPhrase": {
     "message": "Pilih masing-masing frasa untuk memastikan kebenarannya."
@@ -1466,7 +1466,7 @@
     "message": "Kesalahan dalam log status pengambilan."
   },
   "stateLogFileName": {
-    "message": "Log Status MetaMask"
+    "message": "Log Status BetterMask"
   },
   "stateLogs": {
     "message": "Log Status"
@@ -1521,7 +1521,7 @@
   },
   "swapCheckingQuote": {
     "message": "Memeriksa $1",
-    "description": "Shown to the user during quote loading. $1 is the name of an aggregator. The message indicates that metamask is currently checking if that aggregator has a trade/quote for their requested swap."
+    "description": "Shown to the user during quote loading. $1 is the name of an aggregator. The message indicates that BetterMask is currently checking if that aggregator has a trade/quote for their requested swap."
   },
   "swapCustom": {
     "message": "kustom"
@@ -1533,7 +1533,7 @@
     "message": "Edit batas"
   },
   "swapEnableDescription": {
-    "message": "Ini wajib dan memberikan MetaMask izin untuk menukar $1 Anda.",
+    "message": "Ini wajib dan memberikan BetterMask izin untuk menukar $1 Anda.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEstimatedNetworkFee": {
@@ -1580,15 +1580,15 @@
   "swapMaxSlippage": {
     "message": "Maks. slippage"
   },
-  "swapMetaMaskFee": {
-    "message": "Biaya MetaMask"
+  "swapBetterMaskFee": {
+    "message": "Biaya BetterMask"
   },
-  "swapMetaMaskFeeDescription": {
-    "message": "Kami menemukan harga terbaik dari sumber likuiditas teratas, setiap waktu. Biaya sebesar $1% secara otomatis diperhitungkan ke dalam setiap kuota, yang mendukung pengembangan berkelanjutan untuk membuat MetaMask lebih baik lagi.",
-    "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
+  "swapBetterMaskFeeDescription": {
+    "message": "Kami menemukan harga terbaik dari sumber likuiditas teratas, setiap waktu. Biaya sebesar $1% secara otomatis diperhitungkan ke dalam setiap kuota, yang mendukung pengembangan berkelanjutan untuk membuat BetterMask lebih baik lagi.",
+    "description": "Provides information about the fee that BetterMask takes for swaps. $1 is a decimal number."
   },
   "swapNetworkFeeSummary": {
-    "message": "Biaya jaringan mencakup biaya pemrosesan penukaran Anda dan menyimpannya di jaringan $1. MetaMask tidak mendapatkan keuntungan dari biaya ini."
+    "message": "Biaya jaringan mencakup biaya pemrosesan penukaran Anda dan menyimpannya di jaringan $1. BetterMask tidak mendapatkan keuntungan dari biaya ini."
   },
   "swapNewQuoteIn": {
     "message": "Kuota baru di $1",
@@ -1608,8 +1608,8 @@
     "message": "Jika harga berubah antara waktu pesanan Anda ditempatkan dan dikonfirmasi, ini disebut \"slippage\". Penukaran Anda akan otomatis dibatalkan jika slippage melebihi pengaturan \"slippage maks.\"."
   },
   "swapQuoteIncludesRate": {
-    "message": "Kuota mencakup biaya MetaMask $1%",
-    "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
+    "message": "Kuota mencakup biaya BetterMask $1%",
+    "description": "Provides information about the fee that BetterMask takes for swaps. $1 is a decimal number."
   },
   "swapQuoteNofN": {
     "message": "Kuota $1 dari $2",
@@ -1741,16 +1741,16 @@
     "message": "Pastikan tidak ada orang lain yang melihat layar Anda saat memindai kode ini"
   },
   "syncWithMobileComplete": {
-    "message": "Data Anda telah berhasil disinkronkan. Nikmati aplikasi seluler MetaMask!"
+    "message": "Data Anda telah berhasil disinkronkan. Nikmati aplikasi seluler BetterMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Anda dapat menyinkronkan akun dan informasi dengan perangkat seluler Anda. Buka aplikasi seluler MetaMask, buka \"Pengaturan\" dan ketuk \"Sinkronkan dari Ekstensi Browser\""
+    "message": "Anda dapat menyinkronkan akun dan informasi dengan perangkat seluler Anda. Buka aplikasi seluler BetterMask, buka \"Pengaturan\" dan ketuk \"Sinkronkan dari Ekstensi Browser\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jika Anda baru membuka aplikasi seluler MetaMask untuk pertama kali, cukup ikuti langkah-langkah yang ada di ponsel Anda."
+    "message": "Jika Anda baru membuka aplikasi seluler BetterMask untuk pertama kali, cukup ikuti langkah-langkah yang ada di ponsel Anda."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Pindai kode ini dengan aplikasi seluler MetaMask Anda"
+    "message": "Pindai kode ini dengan aplikasi seluler BetterMask Anda"
   },
   "syncWithMobileTitle": {
     "message": "Sinkronisasi dengan seluler"
@@ -1868,7 +1868,7 @@
     "message": "Coba lagi"
   },
   "typePassword": {
-    "message": "Ketikkan kata sandi MetaMask Anda"
+    "message": "Ketikkan kata sandi BetterMask Anda"
   },
   "unapproved": {
     "message": "Tidak disetujui"
@@ -1950,7 +1950,7 @@
     "message": "Frasa pemulihan"
   },
   "welcome": {
-    "message": "Selamat datang di MetaMask"
+    "message": "Selamat datang di BetterMask"
   },
   "welcomeBack": {
     "message": "Selamat Datang Kembali!"

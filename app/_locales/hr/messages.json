@@ -30,7 +30,7 @@
     "message": "zapisnik aktivnosti"
   },
   "addAcquiredTokens": {
-    "message": "Dodajte tokene koje ste kupili uslugom MetaMask"
+    "message": "Dodajte tokene koje ste kupili uslugom BetterMask"
   },
   "addAlias": {
     "message": "Dodaj pseudonim"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "BetterMask",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Brojač za automatsko odjavljivanje (minute)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Postavite stanje u mirovanju u minutama prije nego što se MetaMask automatski odjavi"
+    "message": "Postavite stanje u mirovanju u minutama prije nego što se BetterMask automatski odjavi"
   },
   "average": {
     "message": "Prosječno"
@@ -113,7 +113,7 @@
     "message": "Natrag na sve"
   },
   "backupApprovalInfo": {
-    "message": "Ovaj je sigurnosni kôd potreban za obnavljanje novčanika ako izgubite svoj uređaj, zaboravite svoju lozinku, morate ponovno instalirati MetaMask ili želite pristupiti svojem novčaniku na drugom uređaju."
+    "message": "Ovaj je sigurnosni kôd potreban za obnavljanje novčanika ako izgubite svoj uređaj, zaboravite svoju lozinku, morate ponovno instalirati BetterMask ili želite pristupiti svojem novčaniku na drugom uređaju."
   },
   "backupApprovalNotice": {
     "message": "Sigurnosno kopirajte svoj sigurnosni kôd za obnavljanje kako biste zaštitili svoj novčanik i sredstva."
@@ -144,13 +144,13 @@
     "message": "Vaš se preglednik ne podržava..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask je osmišljen i izrađen u Kaliforniji."
+    "message": "BetterMask je osmišljen i izrađen u Kaliforniji."
   },
   "buyWithWyre": {
     "message": "Kupi ETH Wyerom"
   },
   "buyWithWyreDescription": {
-    "message": "Wyreom vam se omogućava korištenje kreditnom karticom za polaganje ETH-a izravno na vaš račun za MetaMask."
+    "message": "Wyreom vam se omogućava korištenje kreditnom karticom za polaganje ETH-a izravno na vaš račun za BetterMask."
   },
   "bytes": {
     "message": "Bajtovi"
@@ -168,7 +168,7 @@
     "message": "Identifikacijska oznaka bloka"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Trebate upotrebljavati MetaMask u pregledniku Google Chrome kako biste ga povezali s vašim hardverskim novčanikom."
+    "message": "Trebate upotrebljavati BetterMask u pregledniku Google Chrome kako biste ga povezali s vašim hardverskim novčanikom."
   },
   "clickToRevealSeed": {
     "message": "Ovdje kliknite za otkrivanje tajnih riječi"
@@ -342,13 +342,13 @@
     "message": "Nikada ne dijelite rečenicu ni s kim."
   },
   "endOfFlowMessage5": {
-    "message": "Pazite na krađu identiteta! Na usluzi MetaMask nikada vas se neće pitati početna rečenica."
+    "message": "Pazite na krađu identiteta! Na usluzi BetterMask nikada vas se neće pitati početna rečenica."
   },
   "endOfFlowMessage6": {
     "message": "Ako trebate ponovno sigurnosno kopirati svoju početnu rečenicu, možete je pronaći unutar stavke Postavke --> Sigurnost."
   },
   "endOfFlowMessage8": {
-    "message": "Osoblje MetaMask ne može obnoviti vašu početnu rečenicu. Saznajte više."
+    "message": "Osoblje BetterMask ne može obnoviti vašu početnu rečenicu. Saznajte više."
   },
   "endOfFlowMessage9": {
     "message": "Saznajte više."
@@ -455,7 +455,7 @@
     "message": "Poveži hardverski novčanik"
   },
   "hardwareWalletsMsg": {
-    "message": "Odaberite hardverski novčanik koji biste željeli upotrebljavati s uslugom MetaMask"
+    "message": "Odaberite hardverski novčanik koji biste željeli upotrebljavati s uslugom BetterMask"
   },
   "here": {
     "message": "ovdje",
@@ -481,7 +481,7 @@
     "message": "Uvezi račun"
   },
   "importAccountMsg": {
-    "message": "Uvezeni se računi ne pridružuju vašoj izvorno stvorenoj početnoj rečenici za MetaMask. Saznajte više o uvezenim računima"
+    "message": "Uvezeni se računi ne pridružuju vašoj izvorno stvorenoj početnoj rečenici za BetterMask. Saznajte više o uvezenim računima"
   },
   "importAccountSeedPhrase": {
     "message": "Uvezi račun početnom rečenicom"
@@ -575,11 +575,11 @@
   "message": {
     "message": "Poruka"
   },
-  "metamaskDescription": {
+  "BetterMaskDescription": {
     "message": "Povezujete se na Ethereum i decentralizirani internet."
   },
-  "metamaskVersion": {
-    "message": "Inačica usluge MetaMask"
+  "BetterMaskVersion": {
+    "message": "Inačica usluge BetterMask"
   },
   "mobileSyncText": {
     "message": "Upišite svoju lozinku kako biste potvrdili da ste to vi!"
@@ -591,7 +591,7 @@
     "message": "Moji računi"
   },
   "needEtherInWallet": {
-    "message": "Trebate Ether u svojem novčaniku kako biste ostvarili interakciju s decentraliziranim aplikacijama uporabom usluge MetaMask. "
+    "message": "Trebate Ether u svojem novčaniku kako biste ostvarili interakciju s decentraliziranim aplikacijama uporabom usluge BetterMask. "
   },
   "needImportFile": {
     "message": "Morate odabrati datoteku za uvoz.",
@@ -634,8 +634,8 @@
   "newPassword": {
     "message": "Nova lozinka (najmanje osam znakova)"
   },
-  "newToMetaMask": {
-    "message": "Novi korisnik usluge MetaMask?"
+  "newToBetterMask": {
+    "message": "Novi korisnik usluge BetterMask?"
   },
   "newTotal": {
     "message": "Novi ukupni zbroj"
@@ -695,7 +695,7 @@
     "message": "Sudjelujte u anketi MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Sudjelujte u anketi MetaMetrics kako biste nam pomogli poboljšati uslugu MetaMask"
+    "message": "Sudjelujte u anketi MetaMetrics kako biste nam pomogli poboljšati uslugu BetterMask"
   },
   "password": {
     "message": "Zaporka"
@@ -874,7 +874,7 @@
     "message": "Odaberi račun"
   },
   "selectAnAccountHelp": {
-    "message": "Odaberi račun za prikaz u usluzi MetaMask"
+    "message": "Odaberi račun za prikaz u usluzi BetterMask"
   },
   "selectEachPhrase": {
     "message": "Odaberite svaku rečenicu kako biste provjerili je li točna."
@@ -991,16 +991,16 @@
     "message": "Pazite da nitko ne gleda u vaš zaslon dok skenirate ovaj kôd"
   },
   "syncWithMobileComplete": {
-    "message": "Vaši su podatci uspješno sinkronizirani. Uživajte u mobilnoj aplikaciji MetaMask!"
+    "message": "Vaši su podatci uspješno sinkronizirani. Uživajte u mobilnoj aplikaciji BetterMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Možete sinkronizirati svoje račune i informacije s vašim mobilnim telefonom. Otvorite mobilnu aplikaciju MetaMask, idite u stavku „Postavke” i dodirnite „Sinkroniziraj iz dodatka preglednika”"
+    "message": "Možete sinkronizirati svoje račune i informacije s vašim mobilnim telefonom. Otvorite mobilnu aplikaciju BetterMask, idite u stavku „Postavke” i dodirnite „Sinkroniziraj iz dodatka preglednika”"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Kad otvorite mobilnu aplikaciju MetaMask po prvi puta, pridržavajte se koraka koji se prikazuju na telefonu."
+    "message": "Kad otvorite mobilnu aplikaciju BetterMask po prvi puta, pridržavajte se koraka koji se prikazuju na telefonu."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Skenirajte ovaj kôd uporabom mobilne aplikacije MetaMask"
+    "message": "Skenirajte ovaj kôd uporabom mobilne aplikacije BetterMask"
   },
   "syncWithMobileTitle": {
     "message": "Sinkroniziraj s mobilnim telefonom"
@@ -1088,7 +1088,7 @@
     "message": "Pokušaj ponovo"
   },
   "typePassword": {
-    "message": "Upišite svoju lozinku MetaMask."
+    "message": "Upišite svoju lozinku BetterMask."
   },
   "unapproved": {
     "message": "Neodobreno"
@@ -1151,7 +1151,7 @@
     "message": "Početni novčanik"
   },
   "welcome": {
-    "message": "Dobro došli u uslugu MetaMask"
+    "message": "Dobro došli u uslugu BetterMask"
   },
   "welcomeBack": {
     "message": "Dobro došli natrag!"

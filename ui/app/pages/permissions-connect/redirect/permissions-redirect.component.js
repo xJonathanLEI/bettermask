@@ -20,7 +20,7 @@ export default function PermissionsRedirect({ domainMetadata }) {
             <span className="permissions-redirect__check" />
             {renderBrokenLine()}
           </div>
-          <SiteIcon icon="/images/logo/metamask-fox.svg" size={64} />
+          <SiteIcon icon="/images/logo/bettermask-fox.svg" size={64} />
         </div>
       </div>
     </div>

@@ -30,7 +30,7 @@
     "message": "dnevnik dejavnosti"
   },
   "addAcquiredTokens": {
-    "message": "Dodaj žetone pridobljene z MetaMask"
+    "message": "Dodaj žetone pridobljene z BetterMask"
   },
   "addAlias": {
     "message": "Dodaj vzdevek"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "BetterMask",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Časovnik za samodejno odjavo (minute)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Nastavite, po koliko minutah mirovanja naj se MetaMask samodejno odjavi"
+    "message": "Nastavite, po koliko minutah mirovanja naj se BetterMask samodejno odjavi"
   },
   "average": {
     "message": "Povprečje"
@@ -113,7 +113,7 @@
     "message": "Nazaj na vse"
   },
   "backupApprovalInfo": {
-    "message": "Ta skrivna koda je potrebna za obnovitev denarnice, če izgubite napravo, pozabite geslo, ponovno namestite MetaMask ali želite dostopati do denarnice v drugi napravi."
+    "message": "Ta skrivna koda je potrebna za obnovitev denarnice, če izgubite napravo, pozabite geslo, ponovno namestite BetterMask ali želite dostopati do denarnice v drugi napravi."
   },
   "backupApprovalNotice": {
     "message": "Varnostno kopirajte kodo Secret Recovery, da ohranite denarnico in sredstva varna."
@@ -144,13 +144,13 @@
     "message": "Vaš brskalnik ni podptrt ..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask je zasnovan in ustvarjen v Kaliforniji."
+    "message": "BetterMask je zasnovan in ustvarjen v Kaliforniji."
   },
   "buyWithWyre": {
     "message": "Kupi ETH z Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre vam omogoča, da s kreditno kartico nakažete ETH neposredno na svoj račun MetaMask."
+    "message": "Wyre vam omogoča, da s kreditno kartico nakažete ETH neposredno na svoj račun BetterMask."
   },
   "bytes": {
     "message": "Bajti"
@@ -303,7 +303,7 @@
     "message": "Neposredno vplačilo ehera"
   },
   "directDepositEtherExplainer": {
-    "message": "Če že imate Ether, ga lahko najhitreje dobite v MetaMask z neposrednim vplačilom."
+    "message": "Če že imate Ether, ga lahko najhitreje dobite v BetterMask z neposrednim vplačilom."
   },
   "done": {
     "message": "Končano"
@@ -342,13 +342,13 @@
     "message": "Nikoli nikomur ne razkrijte svojega gesla seed phrase."
   },
   "endOfFlowMessage5": {
-    "message": "Pazite na lažno predstavljanje! MetaMask nikoli ne bo spontano zaprosil za vaše geslo seed phrase."
+    "message": "Pazite na lažno predstavljanje! BetterMask nikoli ne bo spontano zaprosil za vaše geslo seed phrase."
   },
   "endOfFlowMessage6": {
     "message": "Če morate ponovno varnostno kopirati vaše geslo seed phrase, ga najdete v Nastavitve -> Varnost."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask ne more obnoviti vašega gesla seed phrase. Več informacij."
+    "message": "BetterMask ne more obnoviti vašega gesla seed phrase. Več informacij."
   },
   "endOfFlowMessage9": {
     "message": "Več o tem"
@@ -570,10 +570,10 @@
   "message": {
     "message": "Sporočilo"
   },
-  "metamaskDescription": {
-    "message": "MetaMask je varen identitetni sklad za Ethereum."
+  "BetterMaskDescription": {
+    "message": "BetterMask je varen identitetni sklad za Ethereum."
   },
-  "metamaskVersion": {
+  "BetterMaskVersion": {
     "message": "Različica"
   },
   "mobileSyncText": {
@@ -629,8 +629,8 @@
   "newPassword": {
     "message": "Novo geslo (min 8 znakov)"
   },
-  "newToMetaMask": {
-    "message": "Ste novi na MetaMask?"
+  "newToBetterMask": {
+    "message": "Ste novi na BetterMask?"
   },
   "newTotal": {
     "message": "Novo skupno"
@@ -690,7 +690,7 @@
     "message": "Sodelujte v MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Sodelujte v MetaMetrics in nam pomagajte izboljšati MetaMask"
+    "message": "Sodelujte v MetaMetrics in nam pomagajte izboljšati BetterMask"
   },
   "password": {
     "message": "Geslo"
@@ -866,7 +866,7 @@
     "message": "Izberi račun"
   },
   "selectAnAccountHelp": {
-    "message": "Izberi račun za prikaz v MetaMask"
+    "message": "Izberi račun za prikaz v BetterMask"
   },
   "selectEachPhrase": {
     "message": "Izberite vsako geslo ter se prepričajte, da je pravilno."
@@ -983,16 +983,16 @@
     "message": "Ko skenirate to kodo, naj nihče ne kuka na vaš zaslon"
   },
   "syncWithMobileComplete": {
-    "message": "Vaši podatki so uspešno sinhronizirani. Uživajte v mobilni aplikaciji MetaMask!"
+    "message": "Vaši podatki so uspešno sinhronizirani. Uživajte v mobilni aplikaciji BetterMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Račune in podatke lahko sinhronizirate s svojo mobilno napravo. Odprite mobilno aplikacijo MetaMask, pojdite na \"Nastavitve\" in tapnite \"Sinhroniziraj z razširitvijo brskalnika\""
+    "message": "Račune in podatke lahko sinhronizirate s svojo mobilno napravo. Odprite mobilno aplikacijo BetterMask, pojdite na \"Nastavitve\" in tapnite \"Sinhroniziraj z razširitvijo brskalnika\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Če ste sedaj prvič odprli aplikacijo MetaMask Mobile, samo sledite korakom v telefonu."
+    "message": "Če ste sedaj prvič odprli aplikacijo BetterMask Mobile, samo sledite korakom v telefonu."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Skenirajte to kodo z mobilno aplikacijo MetaMask"
+    "message": "Skenirajte to kodo z mobilno aplikacijo BetterMask"
   },
   "syncWithMobileTitle": {
     "message": "Sinhroniziraj z mobilnimi telefonom"
@@ -1083,7 +1083,7 @@
     "message": "Poskusi znova"
   },
   "typePassword": {
-    "message": "Vnesite vaše MetaMask geslo"
+    "message": "Vnesite vaše BetterMask geslo"
   },
   "unapproved": {
     "message": "Neodobreno"
@@ -1143,7 +1143,7 @@
     "message": "Obiščite našo spletno stran"
   },
   "welcome": {
-    "message": "Dobrodošli v MetaMask"
+    "message": "Dobrodošli v BetterMask"
   },
   "welcomeBack": {
     "message": "Dobrodošli nazaj!"

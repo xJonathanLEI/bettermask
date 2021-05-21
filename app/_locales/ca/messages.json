@@ -30,7 +30,7 @@
     "message": "registre d'activitat"
   },
   "addAcquiredTokens": {
-    "message": "Afegeix les fitxes que has adquirit fent servir MetaMask"
+    "message": "Afegeix les fitxes que has adquirit fent servir BetterMask"
   },
   "addAlias": {
     "message": "Afegeix un àlies"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "BetterMask",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Temporitzador de tancament de sessió automàtic (minuts)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Configura el temps de repòs com minuts abans que MetaMask tanqui la sessió automàticament"
+    "message": "Configura el temps de repòs com minuts abans que BetterMask tanqui la sessió automàticament"
   },
   "average": {
     "message": "Mitjana"
@@ -113,7 +113,7 @@
     "message": "Torna a Tot"
   },
   "backupApprovalInfo": {
-    "message": "Aquest codi secret es requereix per recuperar el teu moneder en cas que perdis el dispositiu, oblidis la teva contrasenya, hagis de reinstal·lar MetaMask, o vulguis accedir al teu moneder des d'un altre dispositiu."
+    "message": "Aquest codi secret es requereix per recuperar el teu moneder en cas que perdis el dispositiu, oblidis la teva contrasenya, hagis de reinstal·lar BetterMask, o vulguis accedir al teu moneder des d'un altre dispositiu."
   },
   "backupApprovalNotice": {
     "message": "Fes una còpia de seguretat del teu codi Secret de Recuperació per mantenir el teu moneder i els teus fons segurs."
@@ -144,13 +144,13 @@
     "message": "El teu navegador no és suportat..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask ha estat dissenyat i desenvolupat a Califòrnia."
+    "message": "BetterMask ha estat dissenyat i desenvolupat a Califòrnia."
   },
   "buyWithWyre": {
     "message": "Compra ETH amb Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre et permet utilitzar una targeta de crèdit per dipositar ETH directe al teu compte MetaMask."
+    "message": "Wyre et permet utilitzar una targeta de crèdit per dipositar ETH directe al teu compte BetterMask."
   },
   "cancel": {
     "message": "Cancel·la"
@@ -165,7 +165,7 @@
     "message": "Cadena ID"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Necessites fer servir MetaMask amb Google Chrome per a connectar-te al teu Moneder Hardware."
+    "message": "Necessites fer servir BetterMask amb Google Chrome per a connectar-te al teu Moneder Hardware."
   },
   "clickToRevealSeed": {
     "message": "Fes clic aquí per a revelar les paraules secretes"
@@ -339,13 +339,13 @@
     "message": "No comparteixis mai la frase amb ningú."
   },
   "endOfFlowMessage5": {
-    "message": "Estigues atent amb el phishing! MetaMask no et preguntarà mai espontàniament la teva frase de recuperació."
+    "message": "Estigues atent amb el phishing! BetterMask no et preguntarà mai espontàniament la teva frase de recuperació."
   },
   "endOfFlowMessage6": {
     "message": "Si necessites fer una còpia de seguretat de la teva frase de recuperació una altra vegada, la pots trobar a Configuració-> Seguretat."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask no pot recuperar la teva seedphrase. Descobreix per què."
+    "message": "BetterMask no pot recuperar la teva seedphrase. Descobreix per què."
   },
   "endOfFlowMessage9": {
     "message": "Més informació."
@@ -446,7 +446,7 @@
     "message": "Connectar un moneder hardware"
   },
   "hardwareWalletsMsg": {
-    "message": "Selecciona una cartera de hardware que t'agradaria utilizar amb MetaMask"
+    "message": "Selecciona una cartera de hardware que t'agradaria utilizar amb BetterMask"
   },
   "here": {
     "message": "aquí",
@@ -472,7 +472,7 @@
     "message": "Importa compte"
   },
   "importAccountMsg": {
-    "message": "Els comptes importats no s'associaran amb la teva frase de recuperació creada originalment a MetaMask. Aprèn més sobre els comptes importats"
+    "message": "Els comptes importats no s'associaran amb la teva frase de recuperació creada originalment a BetterMask. Aprèn més sobre els comptes importats"
   },
   "importAccountSeedPhrase": {
     "message": "Importa un Compte amb Phrase de Recuperació"
@@ -566,11 +566,11 @@
   "message": {
     "message": "Missatge"
   },
-  "metamaskDescription": {
+  "BetterMaskDescription": {
     "message": "Conectant-te a Ethereum i la web descentralitzada."
   },
-  "metamaskVersion": {
-    "message": "Versió MetaMask"
+  "BetterMaskVersion": {
+    "message": "Versió BetterMask"
   },
   "mobileSyncText": {
     "message": "Si us plau, introdueix la teva contrasenya per confirmar que ets tu!"
@@ -582,7 +582,7 @@
     "message": "Els meus Comptes"
   },
   "needEtherInWallet": {
-    "message": "Per a interactuar amb aplicacions descentralitzades fent servir MetaMask, necessitaràs Ether al teu moneder."
+    "message": "Per a interactuar amb aplicacions descentralitzades fent servir BetterMask, necessitaràs Ether al teu moneder."
   },
   "needImportFile": {
     "message": "Has de seleccionar un arxiu per a importar.",
@@ -625,8 +625,8 @@
   "newPassword": {
     "message": "Nova contrasenya (mínim 8 caràcters)"
   },
-  "newToMetaMask": {
-    "message": "Nou a MetaMask?"
+  "newToBetterMask": {
+    "message": "Nou a BetterMask?"
   },
   "newTotal": {
     "message": "Nou total"
@@ -686,7 +686,7 @@
     "message": "Participar a MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Participa a MetaMetrics per ajudar-nos a fer MetaMask millor"
+    "message": "Participa a MetaMetrics per ajudar-nos a fer BetterMask millor"
   },
   "password": {
     "message": "Contrasenya"
@@ -859,7 +859,7 @@
     "message": "Selecciona un Compte"
   },
   "selectAnAccountHelp": {
-    "message": "Selecciona el compte que vols veure a MetaMask"
+    "message": "Selecciona el compte que vols veure a BetterMask"
   },
   "selectEachPhrase": {
     "message": "Si us plau selecciona cada frase per a assegurar-te que és correcta."
@@ -976,16 +976,16 @@
     "message": "Assegura't que no hi ha ningú mirant la teva pantalla quan escanegis aquest codi"
   },
   "syncWithMobileComplete": {
-    "message": "Les teves dades s'han sincronitzat amb èxit. Disfruta de l'app mòbil de MetaMask!"
+    "message": "Les teves dades s'han sincronitzat amb èxit. Disfruta de l'app mòbil de BetterMask!"
   },
   "syncWithMobileDesc": {
     "message": "Pots sincronitzar els teus comptes i la teva informació amb el teu dispositiu mòbil. Obre l'app mòbil de MetaTask, ves a \"Configuració\" i \"Sincronitzar desde l"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Si acabes d'obrir l'app mòbil MetaMask per primer cop, tan sols has de seguir els passos del teu telèfon."
+    "message": "Si acabes d'obrir l'app mòbil BetterMask per primer cop, tan sols has de seguir els passos del teu telèfon."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Escaneja aquest codi amb la teva aplicació mòbil de MetaMask"
+    "message": "Escaneja aquest codi amb la teva aplicació mòbil de BetterMask"
   },
   "syncWithMobileTitle": {
     "message": "Sincronitzar amb mòbil"
@@ -1067,7 +1067,7 @@
     "message": "Torna-ho a provar"
   },
   "typePassword": {
-    "message": "Tecleja la teva contrasenya de MetaMask"
+    "message": "Tecleja la teva contrasenya de BetterMask"
   },
   "unapproved": {
     "message": "Pendent d'aprovació"
@@ -1130,7 +1130,7 @@
     "message": "Cartera de seeds"
   },
   "welcome": {
-    "message": "Benvingut a MetaMask"
+    "message": "Benvingut a BetterMask"
   },
   "welcomeBack": {
     "message": "Benvingut de nou!"
