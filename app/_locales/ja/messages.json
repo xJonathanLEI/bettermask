@@ -44,7 +44,7 @@
     "message": "アクティビティのログ"
   },
   "addAcquiredTokens": {
-    "message": "MetaMaskで取得したトークンを追加する"
+    "message": "BetterMaskで取得したトークンを追加する"
   },
   "addAlias": {
     "message": "エイリアスの追加"
@@ -131,7 +131,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "BetterMask",
     "description": "The name of the application"
   },
   "approvalAndAggregatorTxFeeCost": {
@@ -175,7 +175,7 @@
     "message": "自動ロック(分)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "MetaMaskが自動的にロックするまでのアイドル時間を分単位で設定します。"
+    "message": "BetterMaskが自動的にロックするまでのアイドル時間を分単位で設定します。"
   },
   "average": {
     "message": "平均"
@@ -187,7 +187,7 @@
     "message": "一覧に戻る"
   },
   "backupApprovalInfo": {
-    "message": "シードフレーズはウォレットの復旧に必要です。デバイスやパスワードの紛失、MetaMaskの再インストール時、または別のデバイスでウォレットを使用する時に必要です。"
+    "message": "シードフレーズはウォレットの復旧に必要です。デバイスやパスワードの紛失、BetterMaskの再インストール時、または別のデバイスでウォレットを使用する時に必要です。"
   },
   "backupApprovalNotice": {
     "message": "シードフレーズをバックアップして、ウォレットと資金の安全を確保してください。"
@@ -218,7 +218,7 @@
     "message": "このブラウザーはサポートしていません。"
   },
   "builtInCalifornia": {
-    "message": "MetaMaskはカリフォルニアで設計、作成されました。"
+    "message": "BetterMaskはカリフォルニアで設計、作成されました。"
   },
   "buy": {
     "message": "入金"
@@ -227,7 +227,7 @@
     "message": "WyreでETHを購入"
   },
   "buyWithWyreDescription": {
-    "message": "Wyreでは、デビットカードを使用してETHをMetaMaskアカウントに直接入金できます。"
+    "message": "Wyreでは、デビットカードを使用してETHをBetterMaskアカウントに直接入金できます。"
   },
   "bytes": {
     "message": "バイト"
@@ -248,7 +248,7 @@
     "message": "チェーンID"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "ハードウェアウォレットへ接続するには、MetaMask on Google Chrome を使用する必要があります。"
+    "message": "ハードウェアウォレットへ接続するには、BetterMask on Google Chrome を使用する必要があります。"
   },
   "clickToRevealSeed": {
     "message": "シードフレーズを表示するにはここをクリックします"
@@ -285,7 +285,7 @@
   },
   "connectTo": {
     "message": "接続先 $1",
-    "description": "$1 is the name/origin of a web3 site/application that the user can connect to metamask"
+    "description": "$1 is the name/origin of a web3 site/application that the user can connect to BetterMask"
   },
   "connectToAll": {
     "message": "全ての $1 に接続",
@@ -303,8 +303,8 @@
     "message": "$1個のアカウント",
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
-  "connectWithMetaMask": {
-    "message": "MetaMaskをサイトに接続する"
+  "connectWithBetterMask": {
+    "message": "BetterMaskをサイトに接続する"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "このサイトに接続されたアカウントは $1個あります。",
@@ -314,7 +314,7 @@
     "message": "このサイトに接続されたアカウントは $1個あります。"
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMaskはこのサイトに接続されていません。Web3サイトに接続するには、サイト内にある接続ボタンを使用します。"
+    "message": "BetterMaskはこのサイトに接続されていません。Web3サイトに接続するには、サイト内にある接続ボタンを使用します。"
   },
   "connectedSites": {
     "message": "接続済みのサイト"
@@ -424,7 +424,7 @@
     "message": "カスタムトークン"
   },
   "dataBackupFoundInfo": {
-    "message": "一部のアカウントデータはMetaMaskの前回のインストール時にバックアップされました。これには、設定、アドレス帳、トークンが含まれます。データを今すぐ復元しますか?"
+    "message": "一部のアカウントデータはBetterMaskの前回のインストール時にバックアップされました。これには、設定、アドレス帳、トークンが含まれます。データを今すぐ復元しますか?"
   },
   "decimal": {
     "message": "小数点桁数"
@@ -446,7 +446,7 @@
     "message": "$1 はメッセージを読み取ってアクションを完了しようとしています",
     "description": "$1 is the web3 site name"
   },
-  "decryptMetamask": {
+  "decryptBetterMask": {
     "message": "メッセージを復号"
   },
   "decryptRequest": {
@@ -477,7 +477,7 @@
     "message": "Etherを直接入金"
   },
   "directDepositEtherExplainer": {
-    "message": "Etherが既にあるなら、MetaMaskの新しいウォレットにEtherを送金することができます。"
+    "message": "Etherが既にあるなら、BetterMaskの新しいウォレットにEtherを送金することができます。"
   },
   "disconnect": {
     "message": "切断"
@@ -550,13 +550,13 @@
     "message": "シードフレーズは絶対に誰にも教えないでください。"
   },
   "endOfFlowMessage5": {
-    "message": "フィッシング詐欺に注意してください!MetaMaskは自発的にシードフレーズを絶対に要求しません。"
+    "message": "フィッシング詐欺に注意してください!BetterMaskは自発的にシードフレーズを絶対に要求しません。"
   },
   "endOfFlowMessage6": {
     "message": "シードフレーズを再度バックアップする場合は、[設定] -> [セキュリティとプライバシー] で見つけることができます。"
   },
   "endOfFlowMessage8": {
-    "message": "MetaMaskはシードフレーズを復元できません。"
+    "message": "BetterMaskはシードフレーズを復元できません。"
   },
   "endOfFlowMessage9": {
     "message": "詳細を表示。"
@@ -600,7 +600,7 @@
     "description": "Displayed error name for debugging purposes. $1 is the error name"
   },
   "errorPageTitle": {
-    "message": "MetaMaskにエラーが発生しました",
+    "message": "BetterMaskにエラーが発生しました",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -749,7 +749,7 @@
     "message": "ハードウェアウォレットの接続"
   },
   "hardwareWalletsMsg": {
-    "message": "MetaMaskに接続するハードウェアウォレットを選択してください"
+    "message": "BetterMaskに接続するハードウェアウォレットを選択してください"
   },
   "havingTroubleConnecting": {
     "message": "接続に問題がありますか?"
@@ -782,7 +782,7 @@
     "message": "アカウントのインポート"
   },
   "importAccountMsg": {
-    "message": "追加したアカウントはMetaMaskのアカウントパスフレーズとは関連付けられません。インポートしたアカウントについての詳細は"
+    "message": "追加したアカウントはBetterMaskのアカウントパスフレーズとは関連付けられません。インポートしたアカウントについての詳細は"
   },
   "importAccountSeedPhrase": {
     "message": "シードフレーズを使用してアカウントをインポート"
@@ -926,23 +926,23 @@
   "message": {
     "message": "メッセージ"
   },
-  "metaMaskConnectStatusParagraphOne": {
-    "message": "アカウントの接続をMetaMaskで詳細に制御できるようになりました。"
+  "BetterMaskConnectStatusParagraphOne": {
+    "message": "アカウントの接続をBetterMaskで詳細に制御できるようになりました。"
   },
-  "metaMaskConnectStatusParagraphThree": {
+  "BetterMaskConnectStatusParagraphThree": {
     "message": "接続しているアカウントを管理するにはクリックしてください。"
   },
-  "metaMaskConnectStatusParagraphTwo": {
+  "BetterMaskConnectStatusParagraphTwo": {
     "message": "現在選択しているアカウントが訪問中のWebサイトに接続されている場合、接続ステータスボタンが表示されます。"
   },
-  "metamaskDescription": {
+  "BetterMaskDescription": {
     "message": "Ethereumの分散型Webに接続しています。"
   },
-  "metamaskSwapsOfflineDescription": {
-    "message": "MetaMask Swapsはメンテナンス中です。後でもう一度確認してください。"
+  "BetterMaskSwapsOfflineDescription": {
+    "message": "BetterMask Swapsはメンテナンス中です。後でもう一度確認してください。"
   },
-  "metamaskVersion": {
-    "message": "MetaMaskのバージョン"
+  "BetterMaskVersion": {
+    "message": "BetterMaskのバージョン"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "設定からいつでも離脱できます"
@@ -952,7 +952,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMaskが実行する内容は…"
+    "message": "BetterMaskが実行する内容は…"
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 が識別可能なIPアドレスを収集することはありません",
@@ -969,11 +969,11 @@
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "匿名化されたクリックイベントとページビューイベントを送信する"
   },
-  "metametricsHelpImproveMetaMask": {
-    "message": "MetaMaskの品質向上へのご協力のお願い"
+  "metametricsHelpImproveBetterMask": {
+    "message": "BetterMaskの品質向上へのご協力のお願い"
   },
   "metametricsOptInDescription": {
-    "message": "MetaMaskでは、ユーザーによる拡張機能の操作方法をより理解するため、基本的な使用状況データを収集させて頂きたいと考えています。このデータは、我々の製品およびEthereumエコシステムの使いやすさとユーザーエクスペリエンスを継続的に改善するために使用されます。"
+    "message": "BetterMaskでは、ユーザーによる拡張機能の操作方法をより理解するため、基本的な使用状況データを収集させて頂きたいと考えています。このデータは、我々の製品およびEthereumエコシステムの使いやすさとユーザーエクスペリエンスを継続的に改善するために使用されます。"
   },
   "mobileSyncText": {
     "message": "本人認証のため、パスワードを入力してください!"
@@ -985,7 +985,7 @@
     "message": "マイアカウント"
   },
   "needEtherInWallet": {
-    "message": "MetaMaskで分散型アプリケーションを操作するには、ウォレットにEtherが必要です。"
+    "message": "BetterMaskで分散型アプリケーションを操作するには、ウォレットにEtherが必要です。"
   },
   "needImportFile": {
     "message": "インポートするファイルを選択してください。",
@@ -1031,8 +1031,8 @@
   "newPassword": {
     "message": "新しいパスワード(最低 8文字)"
   },
-  "newToMetaMask": {
-    "message": "MetaMaskは初めてですか?"
+  "newToBetterMask": {
+    "message": "BetterMaskは初めてですか?"
   },
   "newTotal": {
     "message": "新しい合計"
@@ -1045,7 +1045,7 @@
   },
   "nextNonceWarning": {
     "message": "Nonce $1 は提案された値より大きいです",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to BetterMask's internal logic"
   },
   "noAccountsFound": {
     "message": "指定された検索クエリでアカウントは見つかりませんでした"
@@ -1130,7 +1130,7 @@
     "message": "MetaMetricsに参加"
   },
   "participateInMetaMetricsDescription": {
-    "message": "MetaMaskの改善のため、MetaMetricsに参加します"
+    "message": "BetterMaskの改善のため、MetaMetricsに参加します"
   },
   "password": {
     "message": "パスワード"
@@ -1362,7 +1362,7 @@
     "message": "アカウントを1個選択"
   },
   "selectAnAccountHelp": {
-    "message": "MetaMaskで表示するアカウントを選択してください"
+    "message": "BetterMaskで表示するアカウントを選択してください"
   },
   "selectEachPhrase": {
     "message": "単語を選択して、各フレーズが正しいことを確認してください。"
@@ -1490,7 +1490,7 @@
     "message": "状態ログの検索中にエラーが発生しました。"
   },
   "stateLogFileName": {
-    "message": "MetaMask State Logs"
+    "message": "BetterMask State Logs"
   },
   "stateLogs": {
     "message": "状態ログ"
@@ -1566,7 +1566,7 @@
   },
   "swapCheckingQuote": {
     "message": "$1 をチェック中",
-    "description": "Shown to the user during quote loading. $1 is the name of an aggregator. The message indicates that metamask is currently checking if that aggregator has a trade/quote for their requested swap."
+    "description": "Shown to the user during quote loading. $1 is the name of an aggregator. The message indicates that BetterMask is currently checking if that aggregator has a trade/quote for their requested swap."
   },
   "swapCustom": {
     "message": "カスタム"
@@ -1578,7 +1578,7 @@
     "message": "限度額の変更"
   },
   "swapEnableDescription": {
-    "message": "MetaMaskで $1 のスワップを許可します。（必須）",
+    "message": "BetterMaskで $1 のスワップを許可します。（必須）",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEstimatedNetworkFee": {
@@ -1625,19 +1625,19 @@
   "swapMaxSlippage": {
     "message": "最大スリッページ"
   },
-  "swapMetaMaskFee": {
-    "message": "MetaMask手数料"
+  "swapBetterMaskFee": {
+    "message": "BetterMask手数料"
   },
-  "swapMetaMaskFeeDescription": {
-    "message": "MetaMaskは取引毎に最上位の流動性の供給者から最良価格を探します。見積には $1% の手数料が自動的に組み込まれ、MetaMaskの将来の開発をサポートします。",
-    "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
+  "swapBetterMaskFeeDescription": {
+    "message": "BetterMaskは取引毎に最上位の流動性の供給者から最良価格を探します。見積には $1% の手数料が自動的に組み込まれ、BetterMaskの将来の開発をサポートします。",
+    "description": "Provides information about the fee that BetterMask takes for swaps. $1 is a decimal number."
   },
   "swapNQuotes": {
     "message": "$1個の見積",
     "description": "$1 is the number of quotes that the user can select from when opening the list of quotes on the 'view quote' screen"
   },
   "swapNetworkFeeSummary": {
-    "message": "ネットワーク手数料には、スワップの結果を$1ネットワークに保管する費用も含まれています。MetaMaskは手数料から利益を得ません。"
+    "message": "ネットワーク手数料には、スワップの結果を$1ネットワークに保管する費用も含まれています。BetterMaskは手数料から利益を得ません。"
   },
   "swapNewQuoteIn": {
     "message": "見積の有効期限 $1",
@@ -1671,8 +1671,8 @@
     "message": "注文した時点と注文が承認された時点で価格が変わることを\"スリッページ\"と呼びます。スリッページが\"最大スリッページ\"設定を超える場合、スワップは自動的にキャンセルされます。"
   },
   "swapQuoteIncludesRate": {
-    "message": "見積には $1% のMetaMask手数料が含まれています",
-    "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
+    "message": "見積には $1% のBetterMask手数料が含まれています",
+    "description": "Provides information about the fee that BetterMask takes for swaps. $1 is a decimal number."
   },
   "swapQuoteNofN": {
     "message": "$2個中の $1個の見積",
@@ -1810,16 +1810,16 @@
     "message": "コードをスキャンする前に、誰にも画面を見られていないことを確認してください"
   },
   "syncWithMobileComplete": {
-    "message": "データの同期に成功しました。MetaMaskモバイルアプリを利用できます!"
+    "message": "データの同期に成功しました。BetterMaskモバイルアプリを利用できます!"
   },
   "syncWithMobileDesc": {
-    "message": "アカウントと情報をスマートフォンアプリと同期させることができます。MetaMaskモバイルアプリを開き、\"設定\" に進み、\"ブラウザー拡張機能から同期\" をタップします。"
+    "message": "アカウントと情報をスマートフォンアプリと同期させることができます。BetterMaskモバイルアプリを開き、\"設定\" に進み、\"ブラウザー拡張機能から同期\" をタップします。"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "MetaMaskモバイルアプリを初めて使用する場合は、スマートフォンを以下のステップに従って操作してください。"
+    "message": "BetterMaskモバイルアプリを初めて使用する場合は、スマートフォンを以下のステップに従って操作してください。"
   },
   "syncWithMobileScanThisCode": {
-    "message": "MetaMaskモバイルアプリでこのコードをスキャンしてください"
+    "message": "BetterMaskモバイルアプリでこのコードをスキャンしてください"
   },
   "syncWithMobileTitle": {
     "message": "モバイルアプリとの同期"
@@ -1937,7 +1937,7 @@
     "message": "再試行"
   },
   "typePassword": {
-    "message": "MetaMaskのパスワードを入力"
+    "message": "BetterMaskのパスワードを入力"
   },
   "unapproved": {
     "message": "未承認"
@@ -2023,7 +2023,7 @@
     "description": "$1 is a clickable link."
   },
   "welcome": {
-    "message": "MetaMaskへようこそ!"
+    "message": "BetterMaskへようこそ!"
   },
   "welcomeBack": {
     "message": "おかえりなさい!"

@@ -27,7 +27,7 @@
     "message": "log ng aktibidad"
   },
   "addAcquiredTokens": {
-    "message": "Idagdag ang mga token na nakuha mo gamit ang MetaMask"
+    "message": "Idagdag ang mga token na nakuha mo gamit ang BetterMask"
   },
   "addAlias": {
     "message": "Magdagdag ng alias"
@@ -67,7 +67,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "BetterMask",
     "description": "The name of the application"
   },
   "approve": {
@@ -92,7 +92,7 @@
     "message": "Auto-Logout Timer (minuto)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "I-set ang idle time na minuto bago awtomatikong mag-log out ang MetaMask"
+    "message": "I-set ang idle time na minuto bago awtomatikong mag-log out ang BetterMask"
   },
   "back": {
     "message": "Bumalik"
@@ -101,7 +101,7 @@
     "message": "Bumalik sa Lahat"
   },
   "backupApprovalInfo": {
-    "message": "Ang secret code na ito ay kinakailangan para ma-recover ang iyong wallet kung sakaling mawawala mo ang iyong device, nakalimutan mo ang iyong password, kailangan mong i-install ulit ang MetaMask, o gusto mong i-access ang iyong wallet sa ibang device."
+    "message": "Ang secret code na ito ay kinakailangan para ma-recover ang iyong wallet kung sakaling mawawala mo ang iyong device, nakalimutan mo ang iyong password, kailangan mong i-install ulit ang BetterMask, o gusto mong i-access ang iyong wallet sa ibang device."
   },
   "backupApprovalNotice": {
     "message": "I-back up ang iyong Secret Recovery code para panatilihing secure ang iyong wallet at pondo."
@@ -129,13 +129,13 @@
     "message": "Hindi sinusuportahan ang iyong Browser..."
   },
   "builtInCalifornia": {
-    "message": "Ang MetaMask ay dinisenyo at binuo sa California."
+    "message": "Ang BetterMask ay dinisenyo at binuo sa California."
   },
   "buyWithWyre": {
     "message": "Bumili ng ETH gamit ang Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Binibigyang-daan ka ng Wyre na gumamit ng credit card para magdeposito ng ETH nang direkta sa iyong MetaMask account."
+    "message": "Binibigyang-daan ka ng Wyre na gumamit ng credit card para magdeposito ng ETH nang direkta sa iyong BetterMask account."
   },
   "cancel": {
     "message": "Kanselahin"
@@ -147,7 +147,7 @@
     "message": "Nakansela"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Kailangan mong gamitin ang MetaMask sa Google Chrome upang makakonekta sa iyong Hardware Wallet."
+    "message": "Kailangan mong gamitin ang BetterMask sa Google Chrome upang makakonekta sa iyong Hardware Wallet."
   },
   "clickToRevealSeed": {
     "message": "Mag-click dito para ipakita ang iyong secret words"
@@ -321,13 +321,13 @@
     "message": "Huwag ibahagi ang parirala sa kahit sino."
   },
   "endOfFlowMessage5": {
-    "message": "Mag-ingat sa phishing! Hindi ka basta-basta hihilingin ng MetaMask ang iyong seed phrase."
+    "message": "Mag-ingat sa phishing! Hindi ka basta-basta hihilingin ng BetterMask ang iyong seed phrase."
   },
   "endOfFlowMessage6": {
     "message": "Kung kailangan mong i-back up ulit ang iyong seed phrase, makikita mo ito sa Mga Setting -> Seguridad."
   },
   "endOfFlowMessage8": {
-    "message": "Hindi ma-recover ng MetaMask ang iyong seedphrase. Alamin pa."
+    "message": "Hindi ma-recover ng BetterMask ang iyong seedphrase. Alamin pa."
   },
   "endOfFlowMessage9": {
     "message": "Matuto pa."
@@ -428,7 +428,7 @@
     "message": "Magkonekta ng hardware wallet"
   },
   "hardwareWalletsMsg": {
-    "message": "Pumili ng hardware wallet na gusto mong gamitin sa MetaMask"
+    "message": "Pumili ng hardware wallet na gusto mong gamitin sa BetterMask"
   },
   "havingTroubleConnecting": {
     "message": "May problema ka ba sa pagkonekta?"
@@ -451,7 +451,7 @@
     "message": "Mag-import ng Account"
   },
   "importAccountMsg": {
-    "message": " Ang mga na-import na account ay hindi iuugnay sa orihinal na seedphrase na ginawa ng iyong MetaMask account. Matuto pa tungkol sa mga na-import na account "
+    "message": " Ang mga na-import na account ay hindi iuugnay sa orihinal na seedphrase na ginawa ng iyong BetterMask account. Matuto pa tungkol sa mga na-import na account "
   },
   "importAccountSeedPhrase": {
     "message": "Mag-import ng Account gamit ang Seed Phrase"
@@ -529,11 +529,11 @@
   "message": {
     "message": "Mensahe"
   },
-  "metamaskDescription": {
+  "BetterMaskDescription": {
     "message": "Kinokonekta ka sa Ethereum at sa Decentralized Web."
   },
-  "metamaskVersion": {
-    "message": "Bersyon ng MetaMask"
+  "BetterMaskVersion": {
+    "message": "Bersyon ng BetterMask"
   },
   "mobileSyncText": {
     "message": "Pakilagay ang iyong password para kumpirmahing ikaw ito!"
@@ -545,7 +545,7 @@
     "message": "Mga Account Ko"
   },
   "needEtherInWallet": {
-    "message": "Para gumamit ng mga decentralized na application gamit ang MetaMask, mangangailangan ka ng Ether sa iyong wallet."
+    "message": "Para gumamit ng mga decentralized na application gamit ang BetterMask, mangangailangan ka ng Ether sa iyong wallet."
   },
   "needImportFile": {
     "message": "Dapat kang pumili ng file na ii-import.",
@@ -584,8 +584,8 @@
   "newPassword": {
     "message": "Bagong Password (min 8 char)"
   },
-  "newToMetaMask": {
-    "message": "Bago ka ba sa MetaMask?"
+  "newToBetterMask": {
+    "message": "Bago ka ba sa BetterMask?"
   },
   "newTotal": {
     "message": "Bagong Total"
@@ -645,7 +645,7 @@
     "message": "Makilahok sa MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Makilahok sa MetaMetrics para tulungan kaming mas pagandahin ang MetaMask"
+    "message": "Makilahok sa MetaMetrics para tulungan kaming mas pagandahin ang BetterMask"
   },
   "passwordNotLongEnough": {
     "message": "Hindi sapat ang haba ng password"
@@ -808,7 +808,7 @@
     "message": "Pumili ng Account"
   },
   "selectAnAccountHelp": {
-    "message": "Piliin ang account na titingnan sa MetaMask"
+    "message": "Piliin ang account na titingnan sa BetterMask"
   },
   "selectEachPhrase": {
     "message": "Pakipili ang bawat parirala para tiyaking tama ito."
@@ -937,16 +937,16 @@
     "message": "Tiyaking walang ibang taong tumitingin sa iyong screen kapag sina-scan mo ang code na ito"
   },
   "syncWithMobileComplete": {
-    "message": "Matagumpay na na-sync ang iyong data. I-enjoy ang MetaMask mobile app!"
+    "message": "Matagumpay na na-sync ang iyong data. I-enjoy ang BetterMask mobile app!"
   },
   "syncWithMobileDesc": {
-    "message": "Maaari mong i-sync ang iyong mga account at impormasyon sa iyong mobile device. Buksan ang MetaMask mobile app, pumunta sa \"Settings\" at mag-tap sa \"Sync from Browser Extension\""
+    "message": "Maaari mong i-sync ang iyong mga account at impormasyon sa iyong mobile device. Buksan ang BetterMask mobile app, pumunta sa \"Settings\" at mag-tap sa \"Sync from Browser Extension\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Kung bubuksan mo ang MetaMask Mobile app sa unang pagkakataon, sundin lang ang mga hakbang sa iyong telepono."
+    "message": "Kung bubuksan mo ang BetterMask Mobile app sa unang pagkakataon, sundin lang ang mga hakbang sa iyong telepono."
   },
   "syncWithMobileScanThisCode": {
-    "message": "I-scan ang code na ito sa iyong MetaMask mobile app"
+    "message": "I-scan ang code na ito sa iyong BetterMask mobile app"
   },
   "syncWithMobileTitle": {
     "message": "I-sync sa mobile"
@@ -1028,7 +1028,7 @@
     "message": "Subukang muli"
   },
   "typePassword": {
-    "message": "I-type ang iyong password sa MetaMask"
+    "message": "I-type ang iyong password sa BetterMask"
   },
   "unapproved": {
     "message": "Hindi inaprubahan"
@@ -1085,7 +1085,7 @@
     "message": "Bisitahin ang aming web site"
   },
   "welcome": {
-    "message": "Welcome sa MetaMask"
+    "message": "Welcome sa BetterMask"
   },
   "welcomeBack": {
     "message": "Welcome Ulit!"
