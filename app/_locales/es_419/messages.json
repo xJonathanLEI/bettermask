@@ -44,7 +44,7 @@
     "message": "registro de actividad"
   },
   "addAcquiredTokens": {
-    "message": "Agrega los tokens adquiridos con MetaMask"
+    "message": "Agrega los tokens adquiridos con BetterMask"
   },
   "addAlias": {
     "message": "Agregar alias"
@@ -131,7 +131,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "BetterMask",
     "description": "The name of the application"
   },
   "approvalAndAggregatorTxFeeCost": {
@@ -175,7 +175,7 @@
     "message": "Temporizador de cierre de sesión automático (minutos)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Configura tu tiempo de inactividad en minutos para controlar cuándo MetaMask cerrará tu sesión de forma automática"
+    "message": "Configura tu tiempo de inactividad en minutos para controlar cuándo BetterMask cerrará tu sesión de forma automática"
   },
   "average": {
     "message": "Promedio"
@@ -187,7 +187,7 @@
     "message": "Volver a Todos"
   },
   "backupApprovalInfo": {
-    "message": "Este código secreto es necesario para recuperar tu billetera en caso de que pierdas tu dispositivo, olvides la contraseña, tengas que reinstalar MetaMask o quieras acceder a tu billetera desde otro dispositivo."
+    "message": "Este código secreto es necesario para recuperar tu billetera en caso de que pierdas tu dispositivo, olvides la contraseña, tengas que reinstalar BetterMask o quieras acceder a tu billetera desde otro dispositivo."
   },
   "backupApprovalNotice": {
     "message": "Haz una copia de seguridad de tu código de recuperación secreto para mantener la seguridad de la billetera y los fondos."
@@ -218,7 +218,7 @@
     "message": "Tu navegador no es compatible..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask se diseñó y creó en California."
+    "message": "BetterMask se diseñó y creó en California."
   },
   "buy": {
     "message": "Comprar"
@@ -227,7 +227,7 @@
     "message": "Comprar ETH con Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre te permite utilizar una tarjeta de débito para depositar ETH directamente en su cuenta de MetaMask."
+    "message": "Wyre te permite utilizar una tarjeta de débito para depositar ETH directamente en su cuenta de BetterMask."
   },
   "bytes": {
     "message": "Bytes"
@@ -248,7 +248,7 @@
     "message": "ID de Cadena"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Debes utilizar MetaMask en Google Chrome para poder conectarte a tu billetera de hardware."
+    "message": "Debes utilizar BetterMask en Google Chrome para poder conectarte a tu billetera de hardware."
   },
   "clickToRevealSeed": {
     "message": "Haz clic aquí para mostrar las palabras secretas"
@@ -303,8 +303,8 @@
     "message": "$1 cuentas",
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
-  "connectWithMetaMask": {
-    "message": "Conectar Con MetaMask"
+  "connectWithBetterMask": {
+    "message": "Conectar Con BetterMask"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "Tiene $1 cuentas conectadas con este sitio.",
@@ -314,7 +314,7 @@
     "message": "Tiene 1 cuenta conectada con este sitio."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask no está conectado a este sitio. Para conectarse a un sitio web3, busque el botón de conexión en su sitio."
+    "message": "BetterMask no está conectado a este sitio. Para conectarse a un sitio web3, busque el botón de conexión en su sitio."
   },
   "connectedSites": {
     "message": "Sitios conectados"
@@ -424,7 +424,7 @@
     "message": "Token Personalizado"
   },
   "dataBackupFoundInfo": {
-    "message": "Se hizo una copia de seguridad de algunos de los datos de su cuenta durante una instalación anterior de MetaMask. Esto podría incluir su configuración, contactos y tokens. ¿Le gustaría restaurar estos datos ahora?"
+    "message": "Se hizo una copia de seguridad de algunos de los datos de su cuenta durante una instalación anterior de BetterMask. Esto podría incluir su configuración, contactos y tokens. ¿Le gustaría restaurar estos datos ahora?"
   },
   "decimal": {
     "message": "Decimales de precisión"
@@ -550,13 +550,13 @@
     "message": "Nunca compartas tu frase con nadie."
   },
   "endOfFlowMessage5": {
-    "message": "¡Cuidado con las suplantaciones de identidad! MetaMask no te pedirá nunca tu frase semilla de forma espontánea."
+    "message": "¡Cuidado con las suplantaciones de identidad! BetterMask no te pedirá nunca tu frase semilla de forma espontánea."
   },
   "endOfFlowMessage6": {
     "message": "Si necesitas otro respaldo de tu frase semilla, puedes encontrarla en Configuración -> Seguridad."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask no puede recuperar tu frase semilla. Obtén más información."
+    "message": "BetterMask no puede recuperar tu frase semilla. Obtén más información."
   },
   "endOfFlowMessage9": {
     "message": "Más información."
@@ -600,7 +600,7 @@
     "description": "Displayed error name for debugging purposes. $1 is the error name"
   },
   "errorPageTitle": {
-    "message": "MetaMask encontró un error",
+    "message": "BetterMask encontró un error",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -749,7 +749,7 @@
     "message": "Conectar una billetera de hardware"
   },
   "hardwareWalletsMsg": {
-    "message": "Selecciona la billetera de hardware que te gustaría utilizar con MetaMask"
+    "message": "Selecciona la billetera de hardware que te gustaría utilizar con BetterMask"
   },
   "havingTroubleConnecting": {
     "message": "¿Problemas de conexión?"
@@ -782,7 +782,7 @@
     "message": "Importar cuenta"
   },
   "importAccountMsg": {
-    "message": "Las cuentas importadas no estarán asociadas a la frase semilla que se creó en un principio para tu cuenta de MetaMask. Obtén más información sobre las cuentas importadas "
+    "message": "Las cuentas importadas no estarán asociadas a la frase semilla que se creó en un principio para tu cuenta de BetterMask. Obtén más información sobre las cuentas importadas "
   },
   "importAccountSeedPhrase": {
     "message": "Importar una cuenta con frase semilla"
@@ -924,7 +924,7 @@
     "message": "Mensaje"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "Ahora tienes más control sobre tus conexiones a la cuenta en MetaMask."
+    "message": "Ahora tienes más control sobre tus conexiones a la cuenta en BetterMask."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Clic para administrar tus cuentas conectadas."
@@ -936,10 +936,10 @@
     "message": "Te estamos conectando a Ethereum y a la web descentralizada."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "Intercambios MetaMask está en mantenimiento. Por favor intente más tarde."
+    "message": "Intercambios BetterMask está en mantenimiento. Por favor intente más tarde."
   },
   "metamaskVersion": {
-    "message": "Versión de MetaMask"
+    "message": "Versión de BetterMask"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Siempre permitir optar por no participar a través de Configuración"
@@ -949,7 +949,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask va a.."
+    "message": "BetterMask va a.."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 recolecta tu dirección IP completa",
@@ -966,11 +966,11 @@
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "Enviar eventos de vista de página y clics anónimos"
   },
-  "metametricsHelpImproveMetaMask": {
-    "message": "Ayúdanos a mejorar MetaMask"
+  "metametricsHelpImproveBetterMask": {
+    "message": "Ayúdanos a mejorar BetterMask"
   },
   "metametricsOptInDescription": {
-    "message": "A MetaMask le gustaría recopilar datos de uso para entender mejor cómo interactúan nuestros usuarios con la extensión. Estos datos van a ser usados, de forma continua, para mejorar la usabilidad y experiencia de uso de nuestro producto y el ecosistema Ethereum."
+    "message": "A BetterMask le gustaría recopilar datos de uso para entender mejor cómo interactúan nuestros usuarios con la extensión. Estos datos van a ser usados, de forma continua, para mejorar la usabilidad y experiencia de uso de nuestro producto y el ecosistema Ethereum."
   },
   "mobileSyncText": {
     "message": "Por favor, ingrese su contraseña ¡para confirmar que es usted!"
@@ -982,7 +982,7 @@
     "message": "Mis cuentas"
   },
   "needEtherInWallet": {
-    "message": "Necesitarás tener Ether en tu billetera para poder interactuar con aplicaciones descentralizadas a través de MetaMask."
+    "message": "Necesitarás tener Ether en tu billetera para poder interactuar con aplicaciones descentralizadas a través de BetterMask."
   },
   "needImportFile": {
     "message": "Selecciona un archivo para importar.",
@@ -1028,8 +1028,8 @@
   "newPassword": {
     "message": "Nueva contraseña (mín. 8 caracteres)"
   },
-  "newToMetaMask": {
-    "message": "¿Nuevo en MetaMask?"
+  "newToBetterMask": {
+    "message": "¿Nuevo en BetterMask?"
   },
   "newTotal": {
     "message": "Nuevo total"
@@ -1042,7 +1042,7 @@
   },
   "nextNonceWarning": {
     "message": "El nonce es más alto que el sugerido de $1",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to BetterMask's internal logic"
   },
   "noAccountsFound": {
     "message": "No se encontraron cuentas para su búsqueda"
@@ -1130,7 +1130,7 @@
     "message": "Participar en MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Participa en MetaMetrics para ayudarnos a mejorar MetaMask"
+    "message": "Participa en MetaMetrics para ayudarnos a mejorar BetterMask"
   },
   "password": {
     "message": "Contraseña"
@@ -1362,7 +1362,7 @@
     "message": "Selecciona una Cuenta"
   },
   "selectAnAccountHelp": {
-    "message": "Selecciona la cuenta que deseas ver en MetaMask"
+    "message": "Selecciona la cuenta que deseas ver en BetterMask"
   },
   "selectEachPhrase": {
     "message": "Selecciona todas las frases para asegurarte de que son correctas."
@@ -1490,7 +1490,7 @@
     "message": "Error al recuperar los registros de estado."
   },
   "stateLogFileName": {
-    "message": "Registros de Estado MetaMask"
+    "message": "Registros de Estado BetterMask"
   },
   "stateLogs": {
     "message": "Registros de Estado"
@@ -1578,7 +1578,7 @@
     "message": "Editar límite"
   },
   "swapEnableDescription": {
-    "message": "Esto es obligatorio y le da permiso a MetaMask para intercambiar su $1.",
+    "message": "Esto es obligatorio y le da permiso a BetterMask para intercambiar su $1.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEstimatedNetworkFee": {
@@ -1625,11 +1625,11 @@
   "swapMaxSlippage": {
     "message": "Deslizamiento máximo"
   },
-  "swapMetaMaskFee": {
-    "message": "Tarifa de MetaMask"
+  "swapBetterMaskFee": {
+    "message": "Tarifa de BetterMask"
   },
-  "swapMetaMaskFeeDescription": {
-    "message": "Siempre encontramos el mejor precio de las principales fuentes de liquidez. Una tarifa de $1% se incluye automáticamente en cada cotización, lo que respalda el desarrollo continuo para hacer que MetaMask sea aún mejor.",
+  "swapBetterMaskFeeDescription": {
+    "message": "Siempre encontramos el mejor precio de las principales fuentes de liquidez. Una tarifa de $1% se incluye automáticamente en cada cotización, lo que respalda el desarrollo continuo para hacer que BetterMask sea aún mejor.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapNQuotes": {
@@ -1637,7 +1637,7 @@
     "description": "$1 is the number of quotes that the user can select from when opening the list of quotes on the 'view quote' screen"
   },
   "swapNetworkFeeSummary": {
-    "message": "La tarifa de la red cubre el costo de procesar su intercambio y almacenarlo en la red $1. MetaMask no se beneficia de esta tarifa."
+    "message": "La tarifa de la red cubre el costo de procesar su intercambio y almacenarlo en la red $1. BetterMask no se beneficia de esta tarifa."
   },
   "swapNewQuoteIn": {
     "message": "Nuevas cotizaciones en $1",
@@ -1671,7 +1671,7 @@
     "message": "Si el precio cambia entre el momento en que se realiza el pedido y se confirma, se denomina \"deslizamiento\". Su intercambio se cancelará automáticamente si el deslizamiento excede su configuración de \"tolerancia de deslizamiento\"."
   },
   "swapQuoteIncludesRate": {
-    "message": "La cotización incluye una tarifa de MetaMask de $1%",
+    "message": "La cotización incluye una tarifa de BetterMask de $1%",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapQuoteNofN": {
@@ -1810,16 +1810,16 @@
     "message": "Asegúrate de que nadie esté mirando tu pantalla cuando escanees este código"
   },
   "syncWithMobileComplete": {
-    "message": "Tus datos se han sincronizado con éxito. ¡Disfruta de la aplicación móvil de MetaMask!"
+    "message": "Tus datos se han sincronizado con éxito. ¡Disfruta de la aplicación móvil de BetterMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Puedes sincronizar tus cuentas e información con tu dispositivo móvil. Abre la aplicación de MetaMask para dispositivos móviles, dirígete a \"Configuración\" y selecciona \"Sincronizar desde una extensión del navegador\""
+    "message": "Puedes sincronizar tus cuentas e información con tu dispositivo móvil. Abre la aplicación de BetterMask para dispositivos móviles, dirígete a \"Configuración\" y selecciona \"Sincronizar desde una extensión del navegador\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Si estás abriendo la aplicación de MetaMask para dispositivos móviles por primera vez, sigue los pasos indicados en tu teléfono."
+    "message": "Si estás abriendo la aplicación de BetterMask para dispositivos móviles por primera vez, sigue los pasos indicados en tu teléfono."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Escanea este código con la aplicación móvil de MetaMask"
+    "message": "Escanea este código con la aplicación móvil de BetterMask"
   },
   "syncWithMobileTitle": {
     "message": "Sincronizar con un dispositivo móvil"
@@ -1937,7 +1937,7 @@
     "message": "Reintentar"
   },
   "typePassword": {
-    "message": "Ingresa tu contraseña de MetaMask"
+    "message": "Ingresa tu contraseña de BetterMask"
   },
   "unapproved": {
     "message": "Sin autorización"
@@ -2023,7 +2023,7 @@
     "description": "$1 is a clickable link."
   },
   "welcome": {
-    "message": "Bienvenido a MetaMask"
+    "message": "Bienvenido a BetterMask"
   },
   "welcomeBack": {
     "message": "¡Hola de nuevo!"

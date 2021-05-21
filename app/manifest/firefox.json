@@ -1,7 +1,7 @@
 {
   "applications": {
     "gecko": {
-      "id": "webextension@metamask.io",
+      "id": "{92260b4f-2f42-4281-b217-ebc8140353b4}",
       "strict_min_version": "68.0"
     }
   }

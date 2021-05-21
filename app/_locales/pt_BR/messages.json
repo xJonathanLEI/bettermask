@@ -30,7 +30,7 @@
     "message": "registro de atividade"
   },
   "addAcquiredTokens": {
-    "message": "Adicione os tokens que você adquiriu usando o MetaMask"
+    "message": "Adicione os tokens que você adquiriu usando o BetterMask"
   },
   "addAlias": {
     "message": "Adicionar pseudônimo"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "BetterMask",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Temporizador de Logout Automático (minutos)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Defina o tempo de inatividade em minutos antes de o MetaMask fazer logout automaticamente"
+    "message": "Defina o tempo de inatividade em minutos antes de o BetterMask fazer logout automaticamente"
   },
   "average": {
     "message": "Média"
@@ -113,7 +113,7 @@
     "message": "Voltar para Todos"
   },
   "backupApprovalInfo": {
-    "message": "Esse código secreto é necessário para recuperar sua carteira, caso você perca seu dispositivo, esqueça sua senha, precise reinstalar o MetaMask ou queira acessar sua carteira em outro dispositivo."
+    "message": "Esse código secreto é necessário para recuperar sua carteira, caso você perca seu dispositivo, esqueça sua senha, precise reinstalar o BetterMask ou queira acessar sua carteira em outro dispositivo."
   },
   "backupApprovalNotice": {
     "message": "Faça backup de seu Código Secreto de Recuperação para manter sua carteira e seus fundos em segurança."
@@ -141,13 +141,13 @@
     "message": "Seu navegador não é compatível..."
   },
   "builtInCalifornia": {
-    "message": "O MetaMask foi projetado e desenvolvido na Califórnia."
+    "message": "O BetterMask foi projetado e desenvolvido na Califórnia."
   },
   "buyWithWyre": {
     "message": "Comprar ETH com Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "O Wyre permite que você utilize um cartão de crédito para depositar ETH direto na sua conta do MetaMask."
+    "message": "O Wyre permite que você utilize um cartão de crédito para depositar ETH direto na sua conta do BetterMask."
   },
   "cancel": {
     "message": "Cancelar"
@@ -162,7 +162,7 @@
     "message": "ID da Cadeia"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Você precisa usar o MetaMask no Google Chrome para se conectar à sua Carteira de Hardware."
+    "message": "Você precisa usar o BetterMask no Google Chrome para se conectar à sua Carteira de Hardware."
   },
   "clickToRevealSeed": {
     "message": "Clique aqui para revelar as palavras secretas"
@@ -339,13 +339,13 @@
     "message": "Nunca compartilhe a frase com ninguém."
   },
   "endOfFlowMessage5": {
-    "message": "Cuidado com o phishing! O MetaMask nunca solicitará espontaneamente sua frase semente."
+    "message": "Cuidado com o phishing! O BetterMask nunca solicitará espontaneamente sua frase semente."
   },
   "endOfFlowMessage6": {
     "message": "Se precisar fazer backup de sua frase-semente de novo, acesse Configurações -> Segurança."
   },
   "endOfFlowMessage8": {
-    "message": "O MetaMask não pode recuperar sua frase semente. Saiba mais."
+    "message": "O BetterMask não pode recuperar sua frase semente. Saiba mais."
   },
   "endOfFlowMessage9": {
     "message": "Saiba mais."
@@ -459,7 +459,7 @@
     "message": "Conecte uma carteira física"
   },
   "hardwareWalletsMsg": {
-    "message": "Selecione um hardware que gostaria de utilizar com o MetaMask"
+    "message": "Selecione um hardware que gostaria de utilizar com o BetterMask"
   },
   "havingTroubleConnecting": {
     "message": "Está tendo dificuldade para se conectar?"
@@ -488,7 +488,7 @@
     "message": "Importar Conta"
   },
   "importAccountMsg": {
-    "message": "As contas importadas não serão associadas à sua frase-semente da conta MetaMask criada originalmente. Saiba mais sobre contas importadas"
+    "message": "As contas importadas não serão associadas à sua frase-semente da conta BetterMask criada originalmente. Saiba mais sobre contas importadas"
   },
   "importAccountSeedPhrase": {
     "message": "Importar uma Conta com Frase-semente"
@@ -583,7 +583,7 @@
     "message": "Conectando você ao Ethereum e à Web Descentralizada."
   },
   "metamaskVersion": {
-    "message": "Versão do MetaMask"
+    "message": "Versão do BetterMask"
   },
   "mobileSyncText": {
     "message": "Insira sua senha para confirmar que é você!"
@@ -595,7 +595,7 @@
     "message": "Minhas Contas"
   },
   "needEtherInWallet": {
-    "message": "Para interagir com aplicações descentralizadas usando o MetaMask, você precisará de Ether na sua carteira."
+    "message": "Para interagir com aplicações descentralizadas usando o BetterMask, você precisará de Ether na sua carteira."
   },
   "needImportFile": {
     "message": "Você deve selecionar um arquivo para importar.",
@@ -638,8 +638,8 @@
   "newPassword": {
     "message": "Nova Senha (mín. 8 car.)"
   },
-  "newToMetaMask": {
-    "message": "Novo no MetaMask?"
+  "newToBetterMask": {
+    "message": "Novo no BetterMask?"
   },
   "newTotal": {
     "message": "Total Novo"
@@ -702,7 +702,7 @@
     "message": "Participar do MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Participe do MetaMetrics para nos ajudar a tornar o MetaMask melhor"
+    "message": "Participe do MetaMetrics para nos ajudar a tornar o BetterMask melhor"
   },
   "password": {
     "message": "Senha"
@@ -884,7 +884,7 @@
     "message": "Selecione uma Conta"
   },
   "selectAnAccountHelp": {
-    "message": "Selecione a conta para ver no MetaMask"
+    "message": "Selecione a conta para ver no BetterMask"
   },
   "selectEachPhrase": {
     "message": "Selecione cada frase para se certificar de que esteja correta."
@@ -1019,16 +1019,16 @@
     "message": "Certifique-se de que ninguém mais esteja olhando para sua tela ao digitalizar esse código"
   },
   "syncWithMobileComplete": {
-    "message": "Seus dados foram sincronizados com sucesso. Aproveite o aplicativo MetaMask!"
+    "message": "Seus dados foram sincronizados com sucesso. Aproveite o aplicativo BetterMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Você pode sincronizar suas contas e informações com seu dispositivo móvel. Abra o aplicativo móvel MetaMask, vá em \"Configurações\" e toque em \"Sincronizar da Extensão do Navegador\""
+    "message": "Você pode sincronizar suas contas e informações com seu dispositivo móvel. Abra o aplicativo móvel BetterMask, vá em \"Configurações\" e toque em \"Sincronizar da Extensão do Navegador\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Se você acabou de abrir o aplicativo MetaMask Mobile pela primeira vez, basta seguir os passos no seu telefone."
+    "message": "Se você acabou de abrir o aplicativo BetterMask Mobile pela primeira vez, basta seguir os passos no seu telefone."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Digitalize este código com o seu app móvel do MetaMask"
+    "message": "Digitalize este código com o seu app móvel do BetterMask"
   },
   "syncWithMobileTitle": {
     "message": "Sincronizar com o celular"
@@ -1113,7 +1113,7 @@
     "message": "Tentar novamente"
   },
   "typePassword": {
-    "message": "Digite sua senha do MetaMask"
+    "message": "Digite sua senha do BetterMask"
   },
   "unapproved": {
     "message": "Desaprovado"
@@ -1176,7 +1176,7 @@
     "message": "Semente da Carteira"
   },
   "welcome": {
-    "message": "Bem-vindo ao MetaMask"
+    "message": "Bem-vindo ao BetterMask"
   },
   "welcomeBack": {
     "message": "Bem-vindo de volta!"

@@ -30,7 +30,7 @@
     "message": "protokol aktivity"
   },
   "addAcquiredTokens": {
-    "message": "Pridajte tokeny, ktoré ste získali pomocou MetaMask"
+    "message": "Pridajte tokeny, ktoré ste získali pomocou BetterMask"
   },
   "addAlias": {
     "message": "Pridať alias"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "BetterMask",
     "description": "The name of the application"
   },
   "approve": {
@@ -98,7 +98,7 @@
     "message": "Časovač automatického odhlásenia (minúty)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Nastavte čas nečinnosti v minútach skôr, než sa MetaMask automaticky odhlási"
+    "message": "Nastavte čas nečinnosti v minútach skôr, než sa BetterMask automaticky odhlási"
   },
   "average": {
     "message": "Priemerný"
@@ -110,7 +110,7 @@
     "message": "Späť na všetko"
   },
   "backupApprovalInfo": {
-    "message": "Tento tajný kód je potrebný na obnovenie peňaženky v prípade straty zariadenia, zabudnutia hesla, preinštalovania MetaMask alebo prístupu k peňaženke na inom zariadení."
+    "message": "Tento tajný kód je potrebný na obnovenie peňaženky v prípade straty zariadenia, zabudnutia hesla, preinštalovania BetterMask alebo prístupu k peňaženke na inom zariadení."
   },
   "backupApprovalNotice": {
     "message": "Zálohujte si svoj tajný kód na obnovenie, aby bola vaša peňaženka a prostriedky bezpečné."
@@ -138,13 +138,13 @@
     "message": "Váš prehliadač nie je podporovaný..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask je navržen a vytvořen v Kalifornii."
+    "message": "BetterMask je navržen a vytvořen v Kalifornii."
   },
   "buyWithWyre": {
     "message": "Kúpte ETH s Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre vám umožňuje použiť kreditnú kartu na vloženie depozitu ETH priamo na váš účet MetaMask."
+    "message": "Wyre vám umožňuje použiť kreditnú kartu na vloženie depozitu ETH priamo na váš účet BetterMask."
   },
   "bytes": {
     "message": "Bajty"
@@ -162,7 +162,7 @@
     "message": "ID reťazca"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Ak sa chcete pripojiť k svojej hardvérovej peňaženke, musíte v Google Chrome použiť MetaMask."
+    "message": "Ak sa chcete pripojiť k svojej hardvérovej peňaženke, musíte v Google Chrome použiť BetterMask."
   },
   "clickToRevealSeed": {
     "message": "Kliknutím sem odkryjete tajné slová"
@@ -339,13 +339,13 @@
     "message": "Nikdy nezdieľajte frázu s niekým iným."
   },
   "endOfFlowMessage5": {
-    "message": "Dávajte pozor na phishing! MetaMask nikdy nebude spontánne požadovať vašu seed frázu."
+    "message": "Dávajte pozor na phishing! BetterMask nikdy nebude spontánne požadovať vašu seed frázu."
   },
   "endOfFlowMessage6": {
     "message": "Ak potrebujete backup frázu znova zálohovať, nájdete ju v časti Nastavenia -> Zabezpečenie."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask nemôže obnoviť vašu seed frázu. Zistiť viac."
+    "message": "BetterMask nemôže obnoviť vašu seed frázu. Zistiť viac."
   },
   "endOfFlowMessage9": {
     "message": "Dozvedieť sa viac."
@@ -459,7 +459,7 @@
     "message": "Pripojiť hardvérovú peňaženku"
   },
   "hardwareWalletsMsg": {
-    "message": "Vyberte hardvérovú peňaženku, ktorú chcete používať s MetaMask"
+    "message": "Vyberte hardvérovú peňaženku, ktorú chcete používať s BetterMask"
   },
   "havingTroubleConnecting": {
     "message": "Máte problémy s pripojením?"
@@ -481,7 +481,7 @@
     "message": "Import účtu"
   },
   "importAccountMsg": {
-    "message": "Importované účty nebudou spojeny s vaší původní MetaMaskovou klíčovou frází. Zjistěte více o importovaných účtech "
+    "message": "Importované účty nebudou spojeny s vaší původní BetterMaskovou klíčovou frází. Zjistěte více o importovaných účtech "
   },
   "importAccountSeedPhrase": {
     "message": "Importovať účet so seed frázou"
@@ -564,10 +564,10 @@
     "message": "Zpráva"
   },
   "metamaskDescription": {
-    "message": "MetaMask je bezpečný osobní trezor pro Ethereum."
+    "message": "BetterMask je bezpečný osobní trezor pro Ethereum."
   },
   "metamaskVersion": {
-    "message": "Verzia MetaMask"
+    "message": "Verzia BetterMask"
   },
   "mobileSyncText": {
     "message": "Zadajte svoje heslo a potvrďte, že ste to vy!"
@@ -579,7 +579,7 @@
     "message": "Moje účty"
   },
   "needEtherInWallet": {
-    "message": "Potřebujete Ether v peněžence, abyste mohli pomocí MetaMasku interagovat s decentralizovanými aplikacemi."
+    "message": "Potřebujete Ether v peněžence, abyste mohli pomocí BetterMasku interagovat s decentralizovanými aplikacemi."
   },
   "needImportFile": {
     "message": "Musíte zvolit soubor k importu.",
@@ -622,8 +622,8 @@
   "newPassword": {
     "message": "Nové heslo (min 8 znaků)"
   },
-  "newToMetaMask": {
-    "message": "Ste noví na MetaMask?"
+  "newToBetterMask": {
+    "message": "Ste noví na BetterMask?"
   },
   "newTotal": {
     "message": "Nový súčet"
@@ -683,7 +683,7 @@
     "message": "Zúčastnite sa na MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Zúčastnite sa na MetaMetrics a pomôžte nám vylepšiť MetaMask"
+    "message": "Zúčastnite sa na MetaMetrics a pomôžte nám vylepšiť BetterMask"
   },
   "password": {
     "message": "Heslo"
@@ -859,7 +859,7 @@
     "message": "Vybrať účet"
   },
   "selectAnAccountHelp": {
-    "message": "Vyberte účet, ktorý chcete zobraziť v MetaMask"
+    "message": "Vyberte účet, ktorý chcete zobraziť v BetterMask"
   },
   "selectEachPhrase": {
     "message": "Vyberte každú frázu, aby ste sa uistili, že je správna."
@@ -991,16 +991,16 @@
     "message": "Pri skenovaní tohto kódu sa uistite, že sa nikto iný nedíva na vašu obrazovku"
   },
   "syncWithMobileComplete": {
-    "message": "Vaše údaje boli úspešne synchronizované. Užite si mobilnú aplikáciu MetaMask!"
+    "message": "Vaše údaje boli úspešne synchronizované. Užite si mobilnú aplikáciu BetterMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Svoje účty a informácie môžete synchronizovať so svojim mobilným zariadením. Otvorte mobilnú aplikáciu MetaMask, prejdite na „Nastavenia“ a kliknite na „Synchronizovať z rozšírenia prehliadača“."
+    "message": "Svoje účty a informácie môžete synchronizovať so svojim mobilným zariadením. Otvorte mobilnú aplikáciu BetterMask, prejdite na „Nastavenia“ a kliknite na „Synchronizovať z rozšírenia prehliadača“."
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Ak otvoríte mobilnú aplikáciu MetaMask prvýkrát, postupujte podľa pokynov v telefóne."
+    "message": "Ak otvoríte mobilnú aplikáciu BetterMask prvýkrát, postupujte podľa pokynov v telefóne."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Naskenujte tento kód pomocou mobilnej aplikácie MetaMask"
+    "message": "Naskenujte tento kód pomocou mobilnej aplikácie BetterMask"
   },
   "syncWithMobileTitle": {
     "message": "Synchronizácia s mobilom"
@@ -1151,7 +1151,7 @@
     "message": "Klíčová fráze peněženky"
   },
   "welcome": {
-    "message": "Vitajte v MetaMask"
+    "message": "Vitajte v BetterMask"
   },
   "welcomeBack": {
     "message": "Vitajte späť!"

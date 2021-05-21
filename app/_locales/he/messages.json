@@ -30,7 +30,7 @@
     "message": "יומן פעילות"
   },
   "addAcquiredTokens": {
-    "message": "הוספת הטוקנים שהשגת באמצעות MetaMask"
+    "message": "הוספת הטוקנים שהשגת באמצעות BetterMask"
   },
   "addAlias": {
     "message": "הוסף כינוי"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "BetterMask",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "טיימר התנתקות אוטומטית (דקות)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "הגדר/י את זמן היעדר הפעילות בדקות לפני ש-MetaMask יתנתק אוטומטית."
+    "message": "הגדר/י את זמן היעדר הפעילות בדקות לפני ש-BetterMask יתנתק אוטומטית."
   },
   "average": {
     "message": "ממוצע"
@@ -113,7 +113,7 @@
     "message": "חזרה אל 'הכל'"
   },
   "backupApprovalInfo": {
-    "message": "קוד סודי זה נדרש כדי לשחזר את הארנק שלך במקרה שתאבד/י את מכשירך, תשכח/י את הססמה, תצטרכ/י להתקין מחדש את MetaMask או שתרצה/י לגשת לארנק שלך במכשיר אחר."
+    "message": "קוד סודי זה נדרש כדי לשחזר את הארנק שלך במקרה שתאבד/י את מכשירך, תשכח/י את הססמה, תצטרכ/י להתקין מחדש את BetterMask או שתרצה/י לגשת לארנק שלך במכשיר אחר."
   },
   "backupApprovalNotice": {
     "message": "גבה/י את קוד השחזור הסודי שלך כדי לשמור את בטיחות הארנק והכספים שלך."
@@ -144,13 +144,13 @@
     "message": "הדפדפן שלך אינו נתמך..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask תוכנן ונבנה בקליפורניה."
+    "message": "BetterMask תוכנן ונבנה בקליפורניה."
   },
   "buyWithWyre": {
     "message": "רכישת את'ר עם Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre מאפשרת לך להשתמש בכרטיס אשראי כדי להפקיד ETH ישירות בחשבון ה-MetaMask שלך."
+    "message": "Wyre מאפשרת לך להשתמש בכרטיס אשראי כדי להפקיד ETH ישירות בחשבון ה-BetterMask שלך."
   },
   "bytes": {
     "message": "בייטים"
@@ -168,7 +168,7 @@
     "message": "מזהה שרשרת"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "עליך להשתמש ב-MetaMask בגוגל כרום כדי להתחבר לארנק החומרה שלך."
+    "message": "עליך להשתמש ב-BetterMask בגוגל כרום כדי להתחבר לארנק החומרה שלך."
   },
   "clickToRevealSeed": {
     "message": "לחצ/י כאן לחשיפת מילים סודיות"
@@ -345,13 +345,13 @@
     "message": "לעולם אל תשתפ/י את הצירוף עם אף אחד."
   },
   "endOfFlowMessage5": {
-    "message": "היזהר/י מהתחזות! MetaMask לעולם לא יבקש באופן ספונטני את צירוף הגרעין שלך."
+    "message": "היזהר/י מהתחזות! BetterMask לעולם לא יבקש באופן ספונטני את צירוף הגרעין שלך."
   },
   "endOfFlowMessage6": {
     "message": "אם עליך לגבות את צירוף הגרעין שלך שוב, תוכל/י למצוא זאת בהגדרות -> אבטחה."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask לא הצליח לשחזר את ה-seedphrase שלך. למד/י עוד."
+    "message": "BetterMask לא הצליח לשחזר את ה-seedphrase שלך. למד/י עוד."
   },
   "endOfFlowMessage9": {
     "message": "למד עוד."
@@ -465,7 +465,7 @@
     "message": "חבר ארנק חומרה"
   },
   "hardwareWalletsMsg": {
-    "message": "בחר/י ארנק חומרה שבו תרצה להשתמש עם MetaMask"
+    "message": "בחר/י ארנק חומרה שבו תרצה להשתמש עם BetterMask"
   },
   "havingTroubleConnecting": {
     "message": "חווה קשיים בהתחברות?"
@@ -494,7 +494,7 @@
     "message": "יבא חשבון"
   },
   "importAccountMsg": {
-    "message": "חשבונות מיובאים לא ישויכו לצירוף הגרעין (seed) שנוצר במקור עבור חשבון ה-MetaMask שלך. למד/י עוד על חשבונות מיובאים"
+    "message": "חשבונות מיובאים לא ישויכו לצירוף הגרעין (seed) שנוצר במקור עבור חשבון ה-BetterMask שלך. למד/י עוד על חשבונות מיובאים"
   },
   "importAccountSeedPhrase": {
     "message": "יבא חשבון באמצעות Seed Phrase"
@@ -592,7 +592,7 @@
     "message": "מחבר אותך לאתריום ולרשת המבוזרת."
   },
   "metamaskVersion": {
-    "message": "גרסת MetaMask"
+    "message": "גרסת BetterMask"
   },
   "mobileSyncText": {
     "message": "נא להזין את הססמה שלך כדי לאשר שזה/זו אכן את/ה!"
@@ -604,7 +604,7 @@
     "message": "החשבונות שלי"
   },
   "needEtherInWallet": {
-    "message": "כדי לתקשר עם אפליקציות מבוזרות באמצעות MetaMask, צריך להיות לך את'ר בארנק."
+    "message": "כדי לתקשר עם אפליקציות מבוזרות באמצעות BetterMask, צריך להיות לך את'ר בארנק."
   },
   "needImportFile": {
     "message": "יש לבחור קובץ לייצוא.",
@@ -647,8 +647,8 @@
   "newPassword": {
     "message": "ססמה חדשה (לפחות 8 תווים)"
   },
-  "newToMetaMask": {
-    "message": "חדש/ה ב- MetaMask?"
+  "newToBetterMask": {
+    "message": "חדש/ה ב- BetterMask?"
   },
   "newTotal": {
     "message": "סכום כולל חדש"
@@ -711,7 +711,7 @@
     "message": "קח/י חלק ב- MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "קח/י חלק ב-MetaMetrics כדי לעזור לנו לשפר את MetaMask"
+    "message": "קח/י חלק ב-MetaMetrics כדי לעזור לנו לשפר את BetterMask"
   },
   "password": {
     "message": "סיסמה"
@@ -890,7 +890,7 @@
     "message": "בחר חשבון"
   },
   "selectAnAccountHelp": {
-    "message": "בחר את החשבון לצפייה ב- MetaMask"
+    "message": "בחר את החשבון לצפייה ב- BetterMask"
   },
   "selectEachPhrase": {
     "message": "נא לבחור כל צירוף מילים כדי להבטיח שהוא נכון."
@@ -1025,16 +1025,16 @@
     "message": "ודא/י כי איש אינו מסתכל על המסך שלך בזמן סריקת קוד זה"
   },
   "syncWithMobileComplete": {
-    "message": "הנתונים שלך סונכרנו בהצלחה. תיהנה/י מאפליקציית MetaMask לטלפונים ניידים! "
+    "message": "הנתונים שלך סונכרנו בהצלחה. תיהנה/י מאפליקציית BetterMask לטלפונים ניידים! "
   },
   "syncWithMobileDesc": {
-    "message": "באפשרותך לסנכרן את החשבונות והמידע שלך עם המכשיר הנייד שלך. יש לפתוח את האפליקציה לנייד של MetaMask, לעבור אל \"הגדרות\" וללחוץ על \"סנכרון מהרחבה לדפדפן\""
+    "message": "באפשרותך לסנכרן את החשבונות והמידע שלך עם המכשיר הנייד שלך. יש לפתוח את האפליקציה לנייד של BetterMask, לעבור אל \"הגדרות\" וללחוץ על \"סנכרון מהרחבה לדפדפן\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "אם את/ה פותח/ת  את אפליקציית MetaMask Mobile בפעם הראשונה, פשוט בצע/י את השלבים בטלפון שלך."
+    "message": "אם את/ה פותח/ת  את אפליקציית BetterMask Mobile בפעם הראשונה, פשוט בצע/י את השלבים בטלפון שלך."
   },
   "syncWithMobileScanThisCode": {
-    "message": "יש לסרוק קוד QR זה באמצעות אפליקציית MetaMask לטלפון נייד"
+    "message": "יש לסרוק קוד QR זה באמצעות אפליקציית BetterMask לטלפון נייד"
   },
   "syncWithMobileTitle": {
     "message": "סנכרן עם הנייד"
@@ -1125,7 +1125,7 @@
     "message": "ניסיון חוזר"
   },
   "typePassword": {
-    "message": "נא להקליד את סיסמת MetaMask שלך"
+    "message": "נא להקליד את סיסמת BetterMask שלך"
   },
   "unapproved": {
     "message": "לא אושר"
@@ -1188,7 +1188,7 @@
     "message": "גרעין (Seed) ארנק"
   },
   "welcome": {
-    "message": "ברוכים הבאים ל- MetaMask"
+    "message": "ברוכים הבאים ל- BetterMask"
   },
   "welcomeBack": {
     "message": "ברוך שובך!"

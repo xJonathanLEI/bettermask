@@ -1,5 +1,5 @@
 {
-  "author": "https://metamask.io",
+  "author": "https://github.com/xJonathanLEI/bettermask",
   "background": {
     "page": "background.html",
     "persistent": true
@@ -14,7 +14,7 @@
       "128": "images/icon-128.png",
       "512": "images/icon-512.png"
     },
-    "default_title": "MetaMask",
+    "default_title": "BetterMask",
     "default_popup": "popup.html"
   },
   "commands": {

@@ -22,7 +22,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "BetterMask",
     "description": "The name of the application"
   },
   "approve": {
@@ -44,7 +44,7 @@
     "message": "Usar Blockies Identicon"
   },
   "builtInCalifornia": {
-    "message": "MetaMask é desenhada e construída na California."
+    "message": "BetterMask é desenhada e construída na California."
   },
   "cancel": {
     "message": "Cancelar"
@@ -166,7 +166,7 @@
     "message": "Importar Conta"
   },
   "importAccountMsg": {
-    "message": "Contas importadas não irão ser associadas com a frase seed da conta criada originalmente pelo MetaMask. Saiba mais sobre contas importadas."
+    "message": "Contas importadas não irão ser associadas com a frase seed da conta criada originalmente pelo BetterMask. Saiba mais sobre contas importadas."
   },
   "imported": {
     "message": "Importado",
@@ -216,7 +216,7 @@
     "message": "Mensagem"
   },
   "metamaskDescription": {
-    "message": "O MetaMask é um lugar seguro para guardar a sua identidade em em Ethereum."
+    "message": "O BetterMask é um lugar seguro para guardar a sua identidade em em Ethereum."
   },
   "mustSelectOne": {
     "message": "Deve escolher no mínimo 1 token."
@@ -225,7 +225,7 @@
     "message": "As minhas contas"
   },
   "needEtherInWallet": {
-    "message": "Para interagir com applicações descentralizadas usando MetaMask tem de ter Ether na sua carteira."
+    "message": "Para interagir com applicações descentralizadas usando BetterMask tem de ter Ether na sua carteira."
   },
   "needImportFile": {
     "message": "Deve selecionar um ficheiro para importar.",
@@ -401,7 +401,7 @@
     "message": "Visite o nosso site"
   },
   "welcome": {
-    "message": "Bem-vindo ao MetaMask"
+    "message": "Bem-vindo ao BetterMask"
   },
   "youSign": {
     "message": "Está a assinar"
