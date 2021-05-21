@@ -19,7 +19,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "BetterMask",
     "description": "The name of the application"
   },
   "approve": {
@@ -41,7 +41,7 @@
     "message": "Gebruik Blockies Identicon"
   },
   "builtInCalifornia": {
-    "message": "MetaMask is ontworpen en gebouwd in Californië."
+    "message": "BetterMask is ontworpen en gebouwd in Californië."
   },
   "cancel": {
     "message": "Annuleer"
@@ -160,7 +160,7 @@
     "message": "Account importeren"
   },
   "importAccountMsg": {
-    "message": " Geïmporteerde accounts worden niet gekoppeld aan de seedphrase van uw oorspronkelijk gemaakte MetaMask-account. Meer informatie over geïmporteerde accounts"
+    "message": " Geïmporteerde accounts worden niet gekoppeld aan de seedphrase van uw oorspronkelijk gemaakte BetterMask-account. Meer informatie over geïmporteerde accounts"
   },
   "imported": {
     "message": "geïmporteerd",
@@ -209,8 +209,8 @@
   "message": {
     "message": "Bericht"
   },
-  "metamaskDescription": {
-    "message": "MetaMask is een veilige identiteitskluis voor Ethereum."
+  "BetterMaskDescription": {
+    "message": "BetterMask is een veilige identiteitskluis voor Ethereum."
   },
   "mustSelectOne": {
     "message": "Moet ten minste één token selecteren."
@@ -219,7 +219,7 @@
     "message": "Mijn accounts"
   },
   "needEtherInWallet": {
-    "message": "Om te communiceren met gedecentraliseerde applicaties met MetaMask, heb je Ether nodig in je portemonnee."
+    "message": "Om te communiceren met gedecentraliseerde applicaties met BetterMask, heb je Ether nodig in je portemonnee."
   },
   "needImportFile": {
     "message": "U moet een bestand selecteren om te importeren.",
@@ -391,7 +391,7 @@
     "message": "Bezoek onze website"
   },
   "welcome": {
-    "message": "Welkom bij MetaMask"
+    "message": "Welkom bij BetterMask"
   },
   "youSign": {
     "message": "U ondertekent"
