@@ -4,10 +4,12 @@ import { Switch, Route } from 'react-router-dom';
 import {
   NEW_ACCOUNT_ROUTE,
   IMPORT_ACCOUNT_ROUTE,
+  WATCH_ACCOUNT_ROUTE,
   CONNECT_HARDWARE_ROUTE,
 } from '../../helpers/constants/routes';
 import NewAccountCreateForm from './new-account.container';
 import NewAccountImportForm from './import-account';
+import NewAccountWatchForm from './watch-account';
 import ConnectHardwareForm from './connect-hardware';
 
 export default class CreateAccountPage extends Component {
@@ -25,6 +27,11 @@ export default class CreateAccountPage extends Component {
               exact
               path={IMPORT_ACCOUNT_ROUTE}
               component={NewAccountImportForm}
+            />
+            <Route
+              exact
+              path={WATCH_ACCOUNT_ROUTE}
+              component={NewAccountWatchForm}
             />
             <Route
               exact

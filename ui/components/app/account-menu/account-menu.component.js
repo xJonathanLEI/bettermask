@@ -24,6 +24,7 @@ import {
   SETTINGS_ROUTE,
   NEW_ACCOUNT_ROUTE,
   IMPORT_ACCOUNT_ROUTE,
+  WATCH_ACCOUNT_ROUTE,
   CONNECT_HARDWARE_ROUTE,
   DEFAULT_ROUTE,
   ///: BEGIN:ONLY_INCLUDE_IN(flask)
@@ -392,6 +393,19 @@ export default class AccountMenu extends Component {
             />
           }
           text={t('importAccount')}
+        />
+        <AccountMenuItem
+          onClick={() => {
+            toggleAccountMenu();
+            history.push(WATCH_ACCOUNT_ROUTE);
+          }}
+          icon={
+            <IconImport
+              color="var(--color-icon-alternative)"
+              ariaLabel="Watch Account"
+            />
+          }
+          text="Watch Account"
         />
         <AccountMenuItem
           onClick={() => {

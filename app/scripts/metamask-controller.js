@@ -99,6 +99,7 @@ import {
   getTokenValueParam,
   hexToDecimal,
 } from '../../shared/lib/metamask-controller-utils';
+import WatchKeyring from './keyrings/watch';
 import {
   onMessageReceived,
   checkForMultipleVersionsRunning,
@@ -580,6 +581,7 @@ export default class MetamaskController extends EventEmitter {
       LedgerBridgeKeyring,
       LatticeKeyring,
       QRHardwareKeyring,
+      WatchKeyring,
     ];
     this.keyringController = new KeyringController({
       keyringTypes: additionalKeyrings,
@@ -2809,11 +2811,19 @@ export default class MetamaskController extends EventEmitter {
    * @param {any} args - The data required by that strategy to import an account.
    */
   async importAccountWithStrategy(strategy, args) {
-    const privateKey = await accountImporter.importAccount(strategy, args);
-    const keyring = await this.keyringController.addNewKeyring(
-      'Simple Key Pair',
-      [privateKey],
-    );
+    let keyring;
+    if (strategy === 'Watch') {
+      keyring = await this.keyringController.addNewKeyring(
+        'Watch Pair',
+        args[0].substr(2).toLowerCase(),
+      );
+    } else {
+      const privateKey = await accountImporter.importAccount(strategy, args);
+      keyring = await this.keyringController.addNewKeyring('Simple Key Pair', [
+        privateKey,
+      ]);
+    }
+
     const [firstAccount] = await keyring.getAccounts();
     // update accounts in preferences controller
     const allAccounts = await this.keyringController.getAccounts();
